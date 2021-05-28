@@ -1,0 +1,95 @@
+Contact:
+- contacts?
+- (first|given|last) names?
+- surname
+Contact_Address_Book:
+- phonebooks?
+- phone books?
+- address books?
+- contact list
+Contact_City:
+- city
+Contact_E_Mail_Address:
+- email
+- e-mail
+Contact_Password:
+- password
+Contact_Phone_Number:
+- (tele)?phone numbers?
+- fax
+Contact_Postal_Address:
+- postal address
+- residence address
+- residential address
+- shipping address
+- street address
+- home address
+- deliver address
+- local address
+- mail address
+- mailing address
+- physical address
+- work address
+- billing address
+Contact_ZIP:
+- zip
+- postal code
+Demographic:
+- demographic information
+- demographic characteristics
+- demographic data
+- demographic details
+- demographic patterns
+- user demographics
+Demographic_Age:
+- age
+- birthdays?
+- birth date
+- birth year
+Demographic_Gender:
+- gender
+- biological sex
+Identifier:
+- identifiers?
+- unique id(entifier)?s?
+- uuid
+Identifier_Ad_ID:
+- ads? ids?
+- advertisement ids?
+- advertiser ids?
+- advertising device ids?
+- advertising ids?
+- advertising identifiers?
+Identifier_Cookie_or_similar_Tech:
+- cookies?
+Identifier_Device_ID:
+- (device|ios|apple|android|iphone) id(entifier)?s?
+- device-ids?
+- device identification
+Identifier_IMEI:
+- imei
+Identifier_IMSI:
+- imsi
+- subscriber id(entifier)?s?
+Identifier_MAC:
+- mac
+- media access control address
+- media access control
+Identifier_Mobile_Carrier:
+- carrier
+Identifier_SIM_Serial:
+- sim card numbers?
+- sim card serial numbers?
+- sim numbers?
+Identifier_SSID_BSSID:
+- bssid
+- ssid
+- wifi name
+Location:
+- (geo)?-?location
+- gps
+- (precise|real-time|realtime) (geo)?-?location
+- (precise|real-time|realtime) geo-?graphic
+IP_Address:
+- ip
+- internet protocol
