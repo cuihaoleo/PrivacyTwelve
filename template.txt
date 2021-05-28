@@ -1,12 +1,44 @@
-We collect your {DATA} and {DATA}.
-{ORG} collects {DATA}.
-{ORG} may collect your {DATA}.
-{ORG} may share your {DATA} with {ORG}.
-{ORG} may send your {DATA} to {ORG}.
-{DATA} and {DATA} may be shared with {ORG} and {ORG}.
-{DATA} and {DATA} may be sent to {ORG} and {ORG}.
-We share your {DATA} and {DATA} with {ORG} and {ORG}.
-{ORG} may collect some information from you such as {DATA}, {DATA} and {DATA} when you use our our services.
-Data you provide includes {DATA}, {DATA} and {DATA}.
-We may provide {ORG} and {ORG} with your {DATA}, {DATA} and {DATA}.
-Your requests to delete {DATA}, {DATA} and {DATA} is denied.
+We collect your {DATA} and {DATA} .
+{ORG} collects {DATA} .
+{ORG} may collect your {DATA} .
+{ORG} may share your {DATA} with {ORG} .
+{ORG} may send your {DATA} to {ORG} .
+{DATA} and {DATA} may be shared with {ORG} and {ORG} .
+{DATA} and {DATA} may be sent to {ORG} and {ORG} .
+We share your {DATA} and {DATA} with {ORG} and {ORG} .
+{ORG} may collect some information from you such as {DATA}, {DATA} and {DATA} when you use our services .
+Data you provide includes {DATA}, {DATA} and {DATA} .
+We may provide {ORG} and {ORG} with your {DATA}, {DATA} and {DATA} .
+Your requests to delete {DATA}, {DATA} and {DATA} is denied .
+{ORG} will not collect {DATA} & {DATA} of your children.
+{ORG} will not collect {DATA} or {DATA} about your children.
+{ORG} will not collect {DATA} from your children.
+The data which may be provided by {ORG} to us includes {DATA} and {DATA} .
+Among the types of data that this Application collects, by itself or through services of {ORG}, there are {DATA}, {DATA} and {DATA} .
+
+
+If you choose to use services provided by {ORG}, we will ask you for your {DATA} and {DATA} .
+{ORG} and its partners use {DATA} or similar technologies to track users, and to gather {DATA} from our users .
+We gather certain information automatically such as {DATA}, {DATA} and {DATA} .
+In addition, we may ask you to submit and we may process data that is personal to you, including but not limited to {DATA}, {DATA}, {DATA}, {DATA} and others .
+If you browse our Websites, {ORG} may collect certain information about your use of our Websites, which include, without limitation, {DATA}, {DATA} and {DATA} .
+Some of this information, such as your {DATA} & {DATA}, may constitute sensitive information about you.
+
+
+If there are significant changes to {ORG}'s information practices, you will be provided with appropriate online notice.
+Examples of information you can access easily at {ORG} include up-to-date information regarding {DATA}, {DATA} (including {DATA}, {DATA} and information about {DATA}); {DATA} (including {DATA} and {DATA}); information from {ORG} .
+For Vermont residents: {ORG} won't share your {DATA} with {ORG} for marketing purposes except as allowed by Vermont law.
+Please send comments or questions to {ORG}'s Director of Internet Publishing.
+If you have questions about this privacy statement or you believe that your {DATA} has been released without your consent email the Help Center.
+If you have any questions about this Privacy Policy, the data practices of any of the {ORG} Sites, or your dealings with any of the {ORG} Sites, please contact us via email at support@jibjab.com , or via mail.
+{ORG} will charge a $5 processing fee for refunds remitted to the customer.
+As more fully described in this Privacy Policy, you may request that {ORG} not disclose your {DATA} to third parties.
+You may do so either at the time you register or by contacting us by writing to us.
+{ORG} will not ask you the reason for your request, and we will try to accommodate all reasonable requests.
+Please specify in your request how or where you wish to be contacted, and how payment for your health care will be handled if {ORG} communicates with you through this alternative method or location.
+{ORG} never collects {DATA} or creates individual profiles for commercial marketing.
+If it is discovered that {ORG} collects {DATA} from someone under 13, we will delete that information immediately.
+{ORG} complies with the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of {DATA} and {DATA} .
+Some of the services listed below may use {DATA} to identify Users: {ORG}, {ORG} and {ORG} .
+Your parents may at any time review, change and/or delete any information (including {DATA}, {DATA} & {DATA}) that {ORG} collected about you by emailing us.
+If You choose to apply online for a posted job on the {ORG} web site, You will be required to provide {DATA}, {DATA} and {DATA} (including {DATA}).
