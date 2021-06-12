@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-
-import sys
 import json
 import random
 import re
-import tqdm
+import sys
 
+import inflect
 import spacy
+import tqdm
 
 
 def load_list(fname):
@@ -23,23 +23,30 @@ def main():
     templates = list(load_list('template.txt'))
 
     spacy.prefer_gpu()
-    nlp = spacy.load('en_core_web_sm')
+    nlp = spacy.load('en_core_web_trf')
 
     entities = []
     for ent in load_list('entities.txt'):
         ent = ent.replace('.', '')
-        simp_ent = re.sub(r'\W*(Inc|Co|Corp|Corporation|Company|Ltd|Incorporated)$', '', ent, flags=re.I)
+        simp_ent = re.sub(r'\W*(Inc|Co|Corp|Corporation|Company|Ltd|Incorporated|LLC)$', '', ent, flags=re.I)
         entities.append(ent)
 
         if ent != simp_ent:
             entities.append(simp_ent)
 
+    inflect_engine = inflect.engine()
     data_types = []
+
     for dtype in load_list('data_types.txt'):
         data_types.append(dtype)
+        plural_form = inflect_engine.plural(dtype)
 
-        if 'info' not in dtype:
-            data_types.append(dtype + ' info')
+        if plural_form != dtype:
+            data_types.append(plural_form)
+
+        if ' number' in dtype:
+            data_types.append(dtype.replace(' number', 'no.'))
+        elif 'info' not in dtype:
             data_types.append(dtype + ' information')
 
     dataset = []

@@ -1,43 +1,32 @@
 # custom
-system logs
+system log
 cookie
 cookies
 web cookie
 HTTP cookie
 non-personally identifiable information
-non-personally identifiable info
-personally identifiable info
 personally identifiable information
-personal info
 personal information
-demographic info
 demographic information
-health info
 health infomation
-biometric info
 biometric information
-profile info
 profile information
-account info
 account information
-device info
 device type
 device information
-browser info
 browser type
 browser information
-network info
 network type
 network information
-system info
 system information
-hardware info
 hardware information
-software info
 software information
-usage info
 usage data
 usage information
+OS type
+OS information
+OS version
+software version
 
 # custom
 carrier provider
@@ -54,6 +43,7 @@ hostname
 UUID
 BSSID
 SSID
+Service Set Identifier
 Bluetooth MAC
 Ethernet MAC
 WiFi MAC
@@ -223,6 +213,7 @@ IMSI number
 payment card number
 personal identification number
 session identification number
+SSN
 social security number
 student identification number
 Student ID number
@@ -233,6 +224,5 @@ Vehicle Identification Number
 order number
 mobile number
 serial number
-serial no.
 device serial number
 product serial number

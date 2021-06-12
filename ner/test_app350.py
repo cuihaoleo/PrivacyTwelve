@@ -6,6 +6,26 @@ from collections import defaultdict
 from pathlib import Path
 
 
+def get_app350_label(practice):
+    practice_tuple = practice.rsplit('_', 1)
+    if practice_tuple[-1] in ["1stParty", "3rdParty"]:
+        label, party = practice_tuple
+
+        if label.endswith('IP_Address'):
+            return (party, "IP_Address")
+        elif label.startswith('Location'):
+            return (party, "Location")
+        elif label in ['Contact', 'Demographic', 'Identifier']:
+            return None, None
+        else:
+            label = label.replace('Contact_', '')
+            label = label.replace('Demographic_', '')
+            label = label.replace('Identifier_', '')
+            return (party, label)
+
+    return None, None
+
+
 def main():
     nlp_dir = sys.argv[1]
     yml_dir = Path(sys.argv[2])
@@ -31,23 +51,17 @@ def main():
 
             ground_truth = set()
             for annot in segment["annotations"]:
-                practice = annot["practice"].rsplit('_', 1)
-                if practice[-1] in ["1stParty", "3rdParty"]:
-                    label = practice[0]
-                    if label.endswith('IP_Address'):
-                        ground_truth.add('IP_Address')
-                    elif label.startswith('Location'):
-                        ground_truth.add('Location')
-                    else:
-                        ground_truth.add(label)
+                _, label = get_app350_label(annot["practice"])
+                if label is not None:
+                    ground_truth.add(label)
 
-            annot = {d["practice"] for d in segment["annotations"]}
-            if len(annot) == 0:
-                continue
+            #annot = {d["practice"] for d in segment["annotations"]}
+            #if len(annot) == 0:
+            #    continue
 
             data_types = set()
             for ent in doc.ents:
-                if ent.label_ == 'DATA' and ent[-1].pos_ in ['NOUN', 'PROPN']:
+                if ent.label_ == 'DATA' and ent.root.pos_ in ['NOUN', 'PROPN']:
                     data_types.add(ent.text)
 
             data_cats = set()

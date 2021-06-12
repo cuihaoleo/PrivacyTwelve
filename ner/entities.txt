@@ -1,0 +1,5145 @@
+# FROM: https://www.sec.gov/rules/other/4-460list.htm
+3Com Corp
+3M Company
+A.G. Edwards Inc.
+Abbott Laboratories
+Abercrombie & Fitch Co.
+ABM Industries Incorporated
+Ace Hardware Corporation
+ACT Manufacturing Inc.
+Acterna Corp.
+Adams Resources & Energy, Inc.
+ADC Telecommunications, Inc.
+Adelphia Communications Corporation
+Administaff, Inc.
+Adobe Systems Incorporated
+Adolph Coors Company
+Advance Auto Parts, Inc.
+Advanced Micro Devices, Inc.
+AdvancePCS, Inc.
+Advantica Restaurant Group, Inc.
+The AES Corporation
+Aetna Inc.
+Affiliated Computer Services, Inc.
+AFLAC Incorporated
+AGCO Corporation
+Agilent Technologies, Inc.
+Agway Inc.
+Apartment Investment and Management Company
+Air Products and Chemicals, Inc.
+Airborne, Inc.
+Airgas, Inc.
+AK Steel Holding Corporation
+Alaska Air Group, Inc.
+Alberto-Culver Company
+Albertson's, Inc.
+Alcoa Inc.
+Alleghany Corporation
+Allegheny Energy, Inc.
+Allegheny Technologies Incorporated
+Allergan, Inc.
+ALLETE, Inc.
+Alliant Energy Corporation
+Allied Waste Industries, Inc.
+Allmerica Financial Corporation
+The Allstate Corporation
+ALLTEL Corporation
+The Alpine Group, Inc.
+Amazon.com, Inc.
+AMC Entertainment Inc.
+American Power Conversion Corporation
+Amerada Hess Corporation
+AMERCO
+Ameren Corporation
+America West Holdings Corporation
+American Axle & Manufacturing Holdings, Inc.
+American Eagle Outfitters, Inc.
+American Electric Power Company, Inc.
+American Express Company
+American Financial Group, Inc.
+American Greetings Corporation
+American International Group, Inc.
+American Standard Companies Inc.
+American Water Works Company, Inc.
+AmerisourceBergen Corporation
+Ames Department Stores, Inc.
+Amgen Inc.
+Amkor Technology, Inc.
+AMR Corporation
+AmSouth Bancorp.
+Amtran, Inc.
+Anadarko Petroleum Corporation
+Analog Devices, Inc.
+Anheuser-Busch Companies, Inc.
+Anixter International Inc.
+AnnTaylor Inc.
+Anthem, Inc.
+AOL Time Warner Inc.
+Aon Corporation
+Apache Corporation
+Apple Computer, Inc.
+Applera Corporation
+Applied Industrial Technologies, Inc.
+Applied Materials, Inc.
+Aquila, Inc.
+ARAMARK Corporation
+Arch Coal, Inc.
+Archer Daniels Midland Company
+Arkansas Best Corporation
+Armstrong Holdings, Inc.
+Arrow Electronics, Inc.
+ArvinMeritor, Inc.
+Ashland Inc.
+Astoria Financial Corporation
+AT&T Corp.
+Atmel Corporation
+Atmos Energy Corporation
+Audiovox Corporation
+Autoliv, Inc.
+Automatic Data Processing, Inc.
+AutoNation, Inc.
+AutoZone, Inc.
+Avaya Inc.
+Avery Dennison Corporation
+Avista Corporation
+Avnet, Inc.
+Avon Products, Inc.
+Baker Hughes Incorporated
+Ball Corporation
+Bank of America Corporation
+The Bank of New York Company, Inc.
+Bank One Corporation
+Banknorth Group, Inc.
+Banta Corporation
+Barnes & Noble, Inc.
+Bausch & Lomb Incorporated
+Baxter International Inc.
+BB&T Corporation
+The Bear Stearns Companies Inc.
+Beazer Homes USA, Inc.
+Beckman Coulter, Inc.
+Becton, Dickinson and Company
+Bed Bath & Beyond Inc.
+Belk, Inc.
+Bell Microproducts Inc.
+BellSouth Corporation
+Belo Corp.
+Bemis Company, Inc.
+Benchmark Electronics, Inc.
+Berkshire Hathaway Inc.
+Best Buy Co., Inc.
+Bethlehem Steel Corporation
+Beverly Enterprises, Inc.
+Big Lots, Inc.
+BJ Services Company
+BJ's Wholesale Club, Inc.
+The Black & Decker Corporation
+Black Hills Corporation
+BMC Software, Inc.
+The Boeing Company
+Boise Cascade Corporation
+Borders Group, Inc.
+BorgWarner Inc.
+Boston Scientific Corporation
+Bowater Incorporated
+Briggs & Stratton Corporation
+Brightpoint, Inc.
+Brinker International, Inc.
+Bristol-Myers Squibb Company
+Broadwing, Inc.
+Brown Shoe Company, Inc.
+Brown-Forman Corporation
+Brunswick Corporation
+Budget Group, Inc.
+Burlington Coat Factory Warehouse Corporation
+Burlington Industries, Inc.
+Burlington Northern Santa Fe Corporation
+Burlington Resources Inc.
+C. H. Robinson Worldwide Inc.
+Cablevision Systems Corp
+Cabot Corp
+Cadence Design Systems, Inc.
+Calpine Corp.
+Campbell Soup Co.
+Capital One Financial Corp.
+Cardinal Health Inc.
+Caremark Rx Inc.
+Carlisle Cos. Inc.
+Carpenter Technology Corp.
+Casey's General Stores Inc.
+Caterpillar Inc.
+CBRL Group Inc.
+CDI Corp.
+CDW Computer Centers Inc.
+CellStar Corp.
+Cendant Corp
+Cenex Harvest States Cooperatives
+Centex Corp.
+CenturyTel Inc.
+Ceridian Corp.
+CH2M Hill Cos. Ltd.
+Champion Enterprises Inc.
+Charles Schwab Corp.
+Charming Shoppes Inc.
+Charter Communications Inc.
+Charter One Financial Inc.
+ChevronTexaco Corp.
+Chiquita Brands International Inc.
+Chubb Corp
+Ciena Corp.
+Cigna Corp
+Cincinnati Financial Corp.
+Cinergy Corp.
+Cintas Corp.
+Circuit City Stores Inc.
+Cisco Systems Inc.
+Citigroup, Inc
+Citizens Communications Co.
+CKE Restaurants Inc.
+Clear Channel Communications Inc.
+The Clorox Co.
+CMGI Inc.
+CMS Energy Corp.
+CNF Inc.
+Coca-Cola Co.
+Coca-Cola Enterprises Inc.
+Colgate-Palmolive Co.
+Collins & Aikman Corp.
+Comcast Corp.
+Comdisco Inc.
+Comerica Inc.
+Comfort Systems USA Inc.
+Commercial Metals Co.
+Community Health Systems Inc.
+Compass Bancshares Inc
+Computer Associates International Inc.
+Computer Sciences Corp.
+Compuware Corp.
+Comverse Technology Inc.
+ConAgra Foods Inc.
+Concord EFS Inc.
+Conectiv, Inc
+Conoco Inc
+Conseco Inc.
+Consolidated Freightways Corp.
+Consolidated Edison Inc.
+Constellation Brands Inc.
+Constellation Emergy Group Inc.
+Continental Airlines Inc.
+Convergys Corp.
+Cooper Cameron Corp.
+Cooper Industries Ltd.
+Cooper Tire & Rubber Co.
+Corn Products International Inc.
+Corning Inc.
+Costco Wholesale Corp.
+Countrywide Credit Industries Inc.
+Coventry Health Care Inc.
+Cox Communications Inc.
+Crane Co.
+Crompton Corp.
+Crown Cork & Seal Co. Inc.
+CSK Auto Corp.
+CSX Corp.
+Cummins Inc.
+CVS Corp.
+Cytec Industries Inc.
+D&K Healthcare Resources, Inc.
+D.R. Horton Inc.
+Dana Corporation
+Danaher Corporation
+Darden Restaurants Inc.
+DaVita Inc.
+Dean Foods Company
+Deere & Company
+Del Monte Foods Co
+Dell Computer Corporation
+Delphi Corp.
+Delta Air Lines Inc.
+Deluxe Corporation
+Devon Energy Corporation
+Di Giorgio Corporation
+Dial Corporation
+Diebold Incorporated
+Dillard's Inc.
+DIMON Incorporated
+Dole Food Company, Inc.
+Dollar General Corporation
+Dollar Tree Stores, Inc.
+Dominion Resources, Inc.
+Domino's Pizza LLC
+Dover Corporation, Inc.
+Dow Chemical Company
+Dow Jones & Company, Inc.
+DPL Inc.
+DQE Inc.
+Dreyer's Grand Ice Cream, Inc.
+DST Systems, Inc.
+DTE Energy Co.
+E.I. Du Pont de Nemours and Company
+Duke Energy Corp
+Dun & Bradstreet Inc.
+DURA Automotive Systems Inc.
+DynCorp
+Dynegy Inc.
+E*Trade Group, Inc.
+E.W. Scripps Company
+Earthlink, Inc.
+Eastman Chemical Company
+Eastman Kodak Company
+Eaton Corporation
+Echostar Communications Corporation
+Ecolab Inc.
+Edison International
+EGL Inc.
+El Paso Corporation
+Electronic Arts Inc.
+Electronic Data Systems Corp.
+Eli Lilly and Company
+EMC Corporation
+Emcor Group Inc.
+Emerson Electric Co.
+Encompass Services Corporation
+Energizer Holdings Inc.
+Energy East Corporation
+Engelhard Corporation
+Enron Corp.
+Entergy Corporation
+Enterprise Products Partners L.P.
+EOG Resources, Inc.
+Equifax Inc.
+Equitable Resources Inc.
+Equity Office Properties Trust
+Equity Residential Properties Trust
+Estee Lauder Companies Inc.
+Exelon Corporation
+Exide Technologies
+Expeditors International of Washington Inc.
+Express Scripts Inc.
+ExxonMobil Corporation
+Fairchild Semiconductor International Inc.
+Family Dollar Stores Inc.
+Farmland Industries Inc.
+Federal Mogul Corp.
+Federated Department Stores Inc.
+Federal Express Corp.
+Felcor Lodging Trust Inc.
+Ferro Corp.
+Fidelity National Financial Inc.
+Fifth Third Bancorp
+First American Financial Corp.
+First Data Corp.
+First National of Nebraska Inc.
+First Tennessee National Corp.
+FirstEnergy Corp.
+Fiserv Inc.
+Fisher Scientific International Inc.
+FleetBoston Financial Co.
+Fleetwood Enterprises Inc.
+Fleming Companies Inc.
+Flowers Foods Inc.
+Flowserv Corp
+Fluor Corp
+FMC Corp
+Foamex International Inc
+Foot Locker Inc
+Footstar Inc.
+Ford Motor Co
+Forest Laboratories Inc.
+Fortune Brands Inc.
+Foster Wheeler Ltd.
+FPL Group Inc.
+Franklin Resources Inc.
+Freeport McMoran Copper & Gold Inc.
+Frontier Oil Corp
+Furniture Brands International Inc.
+Gannett Co., Inc.
+Gap Inc.
+Gateway Inc.
+GATX Corporation
+Gemstar-TV Guide International Inc.
+GenCorp Inc.
+General Cable Corporation
+General Dynamics Corporation
+General Electric Company
+General Mills Inc
+General Motors Corporation
+Genesis Health Ventures Inc.
+Gentek Inc.
+Gentiva Health Services Inc.
+Genuine Parts Company
+Genuity Inc.
+Genzyme Corporation
+Georgia Gulf Corporation
+Georgia-Pacific Corporation
+Gillette Company
+Gold Kist Inc.
+Golden State Bancorp Inc.
+Golden West Financial Corporation
+Goldman Sachs Group Inc.
+Goodrich Corporation
+The Goodyear Tire & Rubber Company
+Granite Construction Incorporated
+Graybar Electric Company Inc.
+Great Lakes Chemical Corporation
+Great Plains Energy Inc.
+GreenPoint Financial Corp.
+Greif Bros. Corporation
+Grey Global Group Inc.
+Group 1 Automotive Inc.
+Guidant Corporation
+H&R Block Inc.
+H.B. Fuller Company
+H.J. Heinz Company
+Halliburton Co.
+Harley-Davidson Inc.
+Harman International Industries Inc.
+Harrah's Entertainment Inc.
+Harris Corp.
+Harsco Corp.
+Hartford Financial Services Group Inc.
+Hasbro Inc.
+Hawaiian Electric Industries Inc.
+HCA Inc.
+Health Management Associates Inc.
+Health Net Inc.
+Healthsouth Corp
+Henry Schein Inc.
+Hercules Inc.
+Herman Miller Inc.
+Hershey Foods Corp.
+Hewlett-Packard Company
+Hibernia Corp.
+Hillenbrand Industries Inc.
+Hilton Hotels Corp.
+Hollywood Entertainment Corp.
+Home Depot Inc.
+Hon Industries Inc.
+Honeywell International Inc.
+Hormel Foods Corp.
+Host Marriott Corp.
+Household International Corp.
+Hovnanian Enterprises Inc.
+Hub Group Inc.
+Hubbell Inc.
+Hughes Supply Inc.
+Humana Inc.
+Huntington Bancshares Inc.
+Idacorp Inc.
+IDT Corporation
+IKON Office Solutions Inc.
+Illinois Tool Works Inc.
+IMC Global Inc.
+Imperial Sugar Company
+IMS Health Inc.
+Ingles Market Inc
+Ingram Micro Inc.
+Insight Enterprises Inc.
+Integrated Electrical Services Inc.
+Intel Corporation
+International Paper Co.
+Interpublic Group of Companies Inc.
+Interstate Bakeries Corporation
+International Business Machines Corp.
+International Flavors & Fragrances Inc.
+International Multifoods Corporation
+Intuit Inc.
+IT Group Inc.
+ITT Industries Inc.
+Ivax Corp.
+J.B. Hunt Transport Services Inc.
+J.C. Penny Co.
+J.P. Morgan Chase & Co.
+Jabil Circuit Inc.
+Jack In The Box Inc.
+Jacobs Engineering Group Inc.
+JDS Uniphase Corp.
+Jefferson-Pilot Co.
+John Hancock Financial Services Inc.
+Johnson & Johnson
+Johnson Controls Inc.
+Jones Apparel Group Inc.
+KB Home
+Kellogg Company
+Kellwood Company
+Kelly Services Inc.
+Kemet Corp.
+Kennametal Inc.
+Kerr-McGee Corporation
+KeyCorp
+KeySpan Corp.
+Kimball International Inc.
+Kimberly-Clark Corporation
+Kindred Healthcare Inc.
+KLA-Tencor Corporation
+K-Mart Corp.
+Knight-Ridder Inc.
+Kohl's Corp.
+KPMG Consulting Inc.
+Kroger Co.
+L-3 Communications Holdings Inc.
+Laboratory Corporation of America Holdings
+Lam Research Corporation
+LandAmerica Financial Group Inc.
+Lands' End Inc.
+Landstar System Inc.
+La-Z-Boy Inc.
+Lear Corporation
+Legg Mason Inc.
+Leggett & Platt Inc.
+Lehman Brothers Holdings Inc.
+Lennar Corporation
+Lennox International Inc.
+Level 3 Communications Inc.
+Levi Strauss & Co.
+Lexmark International Inc.
+Limited Inc.
+Lincoln National Corporation
+Linens 'n Things Inc.
+Lithia Motors Inc.
+Liz Claiborne Inc.
+Lockheed Martin Corporation
+Loews Corporation
+Longs Drug Stores Corporation
+Louisiana-Pacific Corporation
+Lowe's Companies Inc.
+LSI Logic Corporation
+The LTV Corporation
+The Lubrizol Corporation
+Lucent Technologies Inc.
+Lyondell Chemical Company
+M & T Bank Corporation
+Magellan Health Services Inc.
+Mail-Well Inc.
+Mandalay Resort Group
+Manor Care Inc.
+Manpower Inc.
+Marathon Oil Corporation
+Mariner Health Care Inc.
+Markel Corporation
+Marriott International Inc.
+Marsh & McLennan Companies Inc.
+Marsh Supermarkets Inc.
+Marshall & Ilsley Corporation
+Martin Marietta Materials Inc.
+Masco Corporation
+Massey Energy Company
+MasTec Inc.
+Mattel Inc.
+Maxim Integrated Products Inc.
+Maxtor Corporation
+Maxxam Inc.
+The May Department Stores Company
+Maytag Corporation
+MBNA Corporation
+McCormick & Company Incorporated
+McDonald's Corporation
+The McGraw-Hill Companies Inc.
+McKesson Corporation
+McLeodUSA Incorporated
+M.D.C. Holdings Inc.
+MDU Resources Group Inc.
+MeadWestvaco Corporation
+Medtronic Inc.
+Mellon Financial Corporation
+The Men's Wearhouse Inc.
+Merck & Co., Inc.
+Mercury General Corporation
+Merrill Lynch & Co. Inc.
+Metaldyne Corporation
+Metals USA Inc.
+MetLife Inc.
+Metris Companies Inc
+MGIC Investment Corporation
+MGM Mirage
+Michaels Stores Inc.
+Micron Technology Inc.
+Microsoft Corporation
+Milacron Inc.
+Millennium Chemicals Inc.
+Mirant Corporation
+Mohawk Industries Inc.
+Molex Incorporated
+The MONY Group Inc.
+Morgan Stanley Dean Witter & Co.
+Motorola Inc.
+MPS Group Inc.
+Murphy Oil Corporation
+Nabors Industries Inc
+Nacco Industries Inc
+Nash Finch Company
+National City Corp.
+National Commerce Financial Corporation
+National Fuel Gas Company
+National Oilwell Inc
+National Rural Utilities Cooperative Finance Corporation
+National Semiconductor Corporation
+National Service Industries Inc
+Navistar International Corporation
+NCR Corporation
+The Neiman Marcus Group Inc.
+New Jersey Resources Corporation
+New York Times Company
+Newell Rubbermaid Inc
+Newmont Mining Corporation
+Nextel Communications Inc
+Nicor Inc
+Nike Inc
+NiSource Inc
+Noble Energy Inc
+Nordstrom Inc
+Norfolk Southern Corporation
+Nortek Inc
+North Fork Bancorporation Inc
+Northeast Utilities System
+Northern Trust Corporation
+Northrop Grumman Corporation
+NorthWestern Corporation
+Novellus Systems Inc
+NSTAR
+NTL Incorporated
+Nucor Corp
+Nvidia Corp
+NVR Inc
+Northwest Airlines Corp
+Occidental Petroleum Corp
+Ocean Energy Inc
+Office Depot Inc.
+OfficeMax Inc
+OGE Energy Corp
+Oglethorpe Power Corp.
+Ohio Casualty Corp.
+Old Republic International Corp.
+Olin Corp.
+OM Group Inc
+Omnicare Inc
+Omnicom Group
+On Semiconductor Corp
+ONEOK Inc
+Oracle Corp
+Oshkosh Truck Corp
+Outback Steakhouse Inc.
+Owens & Minor Inc.
+Owens Corning
+Owens-Illinois Inc
+Oxford Health Plans Inc
+Paccar Inc
+PacifiCare Health Systems Inc
+Packaging Corp. of America
+Pactiv Corp
+Pall Corp
+Pantry Inc
+Park Place Entertainment Corp
+Parker Hannifin Corp.
+Pathmark Stores Inc.
+Paychex Inc
+Payless Shoesource Inc
+Penn Traffic Co.
+Pennzoil-Quaker State Company
+Pentair Inc
+Peoples Energy Corp.
+PeopleSoft Inc
+Pep Boys Manny, Moe & Jack
+Potomac Electric Power Co.
+Pepsi Bottling Group Inc.
+PepsiAmericas Inc.
+PepsiCo Inc.
+Performance Food Group Co.
+Perini Corp
+PerkinElmer Inc
+Perot Systems Corp
+Petco Animal Supplies Inc.
+Peter Kiewit Sons', Inc.
+PETsMART Inc
+Pfizer Inc
+Pacific Gas & Electric Corp.
+Pharmacia Corp
+Phar Mor Inc.
+Phelps Dodge Corp.
+Philip Morris Companies Inc.
+Phillips Petroleum Co
+Phillips Van Heusen Corp.
+Phoenix Companies Inc
+Pier 1 Imports Inc.
+Pilgrim's Pride Corporation
+Pinnacle West Capital Corp
+Pioneer-Standard Electronics Inc.
+Pitney Bowes Inc.
+Pittston Brinks Group
+Plains All American Pipeline LP
+PNC Financial Services Group Inc.
+PNM Resources Inc
+Polaris Industries Inc.
+Polo Ralph Lauren Corp
+PolyOne Corp
+Popular Inc
+Potlatch Corp
+PPG Industries Inc
+PPL Corp
+Praxair Inc
+Precision Castparts Corp
+Premcor Inc.
+Pride International Inc
+Primedia Inc
+Principal Financial Group Inc.
+Procter & Gamble Co.
+Pro-Fac Cooperative Inc.
+Progress Energy Inc
+Progressive Corporation
+Protective Life Corp
+Provident Financial Group
+Providian Financial Corp.
+Prudential Financial Inc.
+PSS World Medical Inc
+Public Service Enterprise Group Inc.
+Publix Super Markets Inc.
+Puget Energy Inc.
+Pulte Homes Inc
+Qualcomm Inc
+Quanta Services Inc.
+Quantum Corp
+Quest Diagnostics Inc.
+Questar Corp
+Quintiles Transnational
+Qwest Communications Intl Inc
+R.J. Reynolds Tobacco Company
+R.R. Donnelley & Sons Company
+Radio Shack Corporation
+Raymond James Financial Inc.
+Raytheon Company
+Reader's Digest Association Inc.
+Reebok International Ltd.
+Regions Financial Corp.
+Regis Corporation
+Reliance Steel & Aluminum Co.
+Reliant Energy Inc.
+Rent A Center Inc
+Republic Services Inc
+Revlon Inc
+RGS Energy Group Inc
+Rite Aid Corp
+Riverwood Holding Inc.
+RoadwayCorp
+Robert Half International Inc.
+Rock-Tenn Co
+Rockwell Automation Inc
+Rockwell Collins Inc
+Rohm & Haas Co.
+Ross Stores Inc
+RPM Inc.
+Ruddick Corp
+Ryder System Inc
+Ryerson Tull Inc
+Ryland Group Inc.
+Sabre Holdings Corp
+Safeco Corp
+Safeguard Scientifics Inc.
+Safeway Inc
+Saks Inc
+Sanmina-SCI Inc
+Sara Lee Corp
+SBC Communications Inc
+Scana Corp.
+Schering-Plough Corp
+Scholastic Corp
+SCI Systems Onc.
+Science Applications Intl. Inc.
+Scientific-Atlanta Inc
+Scotts Company
+Seaboard Corp
+Sealed Air Corp
+Sears Roebuck & Co
+Sempra Energy
+Sequa Corp
+Service Corp. International
+ServiceMaster Co
+Shaw Group Inc
+Sherwin-Williams Company
+Shopko Stores Inc
+Siebel Systems Inc
+Sierra Health Services Inc
+Sierra Pacific Resources
+Silgan Holdings Inc.
+Silicon Graphics Inc
+Simon Property Group Inc
+SLM Corporation
+Smith International Inc
+Smithfield Foods Inc
+Smurfit-Stone Container Corp
+Snap-On Inc
+Solectron Corp
+Solutia Inc
+Sonic Automotive Inc.
+Sonoco Products Co.
+Southern Company
+Southern Union Company
+SouthTrust Corp.
+Southwest Airlines Co
+Southwest Gas Corp
+Sovereign Bancorp Inc.
+Spartan Stores Inc
+Spherion Corp
+Sports Authority Inc
+Sprint Corp.
+SPX Corp
+St. Jude Medical Inc
+St. Paul Cos.
+Staff Leasing Inc.
+StanCorp Financial Group Inc
+Standard Pacific Corp.
+Stanley Works
+Staples Inc
+Starbucks Corp
+Starwood Hotels & Resorts Worldwide Inc
+State Street Corp.
+Stater Bros. Holdings Inc.
+Steelcase Inc
+Stein Mart Inc
+Stewart & Stevenson Services Inc
+Stewart Information Services Corp
+Stilwell Financial Inc
+Storage Technology Corporation
+Stryker Corp
+Sun Healthcare Group Inc.
+Sun Microsystems Inc.
+SunGard Data Systems Inc.
+Sunoco Inc.
+SunTrust Banks Inc
+Supervalu Inc
+Swift Transportation, Co., Inc
+Symbol Technologies Inc
+Synovus Financial Corp.
+Sysco Corp
+Systemax Inc.
+Target Corp.
+Tech Data Corporation
+TECO Energy Inc
+Tecumseh Products Company
+Tektronix Inc
+Teleflex Incorporated
+Telephone & Data Systems Inc
+Tellabs Inc.
+Temple-Inland Inc
+Tenet Healthcare Corporation
+Tenneco Automotive Inc.
+Teradyne Inc
+Terex Corp
+Tesoro Petroleum Corp.
+Texas Industries Inc.
+Texas Instruments Incorporated
+Textron Inc
+Thermo Electron Corporation
+Thomas & Betts Corporation
+Tiffany & Co
+Timken Company
+TJX Companies Inc
+TMP Worldwide Inc
+Toll Brothers Inc
+Torchmark Corporation
+Toro Company
+Tower Automotive Inc.
+Toys 'R' Us Inc
+Trans World Entertainment Corp.
+TransMontaigne Inc
+Transocean Inc
+TravelCenters of America Inc.
+Triad Hospitals Inc
+Tribune Company
+Trigon Healthcare Inc.
+Trinity Industries Inc
+Trump Hotels & Casino Resorts Inc.
+TruServ Corporation
+TRW Inc
+TXU Corp
+Tyson Foods Inc
+U.S. Bancorp
+U.S. Industries Inc.
+UAL Corporation
+UGI Corporation
+Unified Western Grocers Inc
+Union Pacific Corporation
+Union Planters Corp
+Unisource Energy Corp
+Unisys Corporation
+United Auto Group Inc
+United Defense Industries Inc.
+United Parcel Service Inc
+United Rentals Inc
+United Stationers Inc
+United Technologies Corporation
+UnitedHealth Group Incorporated
+Unitrin Inc
+Universal Corporation
+Universal Forest Products Inc
+Universal Health Services Inc
+Unocal Corporation
+Unova Inc
+UnumProvident Corporation
+URS Corporation
+US Airways Group Inc
+US Oncology Inc
+USA Interactive
+USFreighways Corporation
+USG Corporation
+UST Inc
+Valero Energy Corporation
+Valspar Corporation
+Value City Department Stores Inc
+Varco International Inc
+Vectren Corporation
+Veritas Software Corporation
+Verizon Communications Inc
+VF Corporation
+Viacom Inc
+Viad Corp
+Viasystems Group Inc
+Vishay Intertechnology Inc
+Visteon Corporation
+Volt Information Sciences Inc
+Vulcan Materials Company
+W.R. Berkley Corporation
+W.R. Grace & Co
+W.W. Grainger Inc
+Wachovia Corporation
+Wakenhut Corporation
+Walgreen Co
+Wallace Computer Services Inc
+Wal-Mart Stores Inc
+Walt Disney Co
+Walter Industries Inc
+Washington Mutual Inc
+Washington Post Co.
+Waste Management Inc
+Watsco Inc
+Weatherford International Inc
+Weis Markets Inc.
+Wellpoint Health Networks Inc
+Wells Fargo & Company
+Wendy's International Inc
+Werner Enterprises Inc
+WESCO International Inc
+Western Digital Inc
+Western Gas Resources Inc
+WestPoint Stevens Inc
+Weyerhauser Company
+WGL Holdings Inc
+Whirlpool Corporation
+Whole Foods Market Inc
+Willamette Industries Inc.
+Williams Companies Inc
+Williams Sonoma Inc
+Winn Dixie Stores Inc
+Wisconsin Energy Corporation
+Wm Wrigley Jr Company
+World Fuel Services Corporation
+WorldCom Inc
+Worthington Industries Inc
+WPS Resources Corporation
+Wyeth
+Wyndham International Inc
+Xcel Energy Inc
+Xerox Corp
+Xilinx Inc
+XO Communications Inc
+Yellow Corporation
+York International Corp
+Yum Brands Inc.
+Zale Corporation
+Zions Bancorporation 
+# FROM WIKIDATA
+07th Expansion
+100 Stones Interactive
+10tacle Studios
+10tons Entertainment
+11880 Internet Services
+11 bit studios
+12 Hit Combo
+1492 Studio
+14 Degrees East
+17-BIT
+1c-bitrix
+1C Company
+1Games
+1 Simple Game
+1st Playable Productions
+1-Up Studio
+21st Street Games
+22Cans
+24 Caret Games
+2D Boy
+2K Australia
+2K China
+2K Czech
+2K Games
+2K Marin
+2XL Games
+343 Industries
+38 Studios
+3909
+3d6 Games
+3Division
+3Division Entertainment
+3D Oyuncu
+3D Realms
+3Romans
+3 Sprockets
+4A Games
+4D Rulers
+4J Studios
+4Kids Games
+4mm Games
+4-Panel Footprint
+5 Lives Studios
+5pb. Division #2
+5th Cell
+5Wolf
+704Games
+777 Studios
+7th Beat Games
+7th Level
+8-4
+8monkey Labs
+8th Day Software
+8th Floor Games
+989 Studios
+AAD Productions
+ABA Games
+Abas Software AG
+Abbey Games
+Abel Inc.
+Ability Plus Software
+ABM United Kingdom Limited
+Above and Beyond Technologies
+Absolutist Ltd.
+Abstraction Games
+Acapela
+AccelByte Inc
+Acceleroto, Inc.
+Access Games
+Accidental Queens
+Acclaim Studios Austin
+Acclaim Studios Cheltenham
+Acclaim Studios London
+Acclaim Studios Teesside
+Accolade
+Aces Studio
+ACE Team
+Acheron Design
+Acid Nerve
+Acid Software
+Acision
+Ackee
+Acornsoft
+Acquire
+Acrued Insolence
+Action Button Entertainment
+Action Forms
+Action Graphics
+Active
+Active Enterprises
+Activision Publishing
+Actress
+Actual Humans
+Adage Games
+AdHoc Studio
+Adikus
+AdoptOpenJDK
+Adrenalin Entertainment
+AdTaily
+Advance Communication Company
+Advanced 365
+Adventure Soft
+AEL Entertainment
+Aerie Gaming Studios
+Aerosoft
+Aesir Interactive
+AFAS Software
+Affect
+Affray Studios
+Agate Studio
+AGD Interactive
+Agetec
+AG Neovo
+Agora Games
+Aha!
+AiBell Game Localization
+Aicom
+Aidoc
+AIMS Multimedia
+airG Inc.
+Airship Syndicate
+Airtight Games
+AIR Worldwide
+AIVIK LLC
+Akabeisoft2
+Akaoni Studio
+Akella
+Åkesoft
+Alawar Entertainment
+Albino Moose Games
+Alchemist
+Alfabet
+Alfa System
+Aliasworlds Entertainment
+ALICE IN DISSONANCE
+AliceSoft
+Alientrap
+Alike Studio
+Alinean
+Allcorrect Group
+Allied's
+Alligator Pit
+Allods Team
+Almanic Corp.
+Almost Human
+Aloft Studio
+AlphaDream
+AlphaSim
+Alpha Wave Entertainment
+Alpine Studios
+Altaba
+Altar Games
+Alter Games
+Alterian
+AlternativaPlatform
+Alternative Games
+Alternative Software
+Altfuture
+Althi Inc.
+Altran Praxis
+Altron
+Alt Shift
+Alvion
+Amanita Design
+Amanotes
+Amaterasu Software
+A-Max
+Amaze Entertainment
+Amazing Studio
+Ambiguous Solutions Pvt. Ltd.
+Ambition
+Ambrella
+Ambrosia Software
+American Game Cartridges
+AmnesiaGames
+Amplitude Studios
+Amsoft
+Amusement Vision
+Amuze
+Analgesic Productions
+Anarch Entertainment
+Anchor Inc.
+Ancient
+Angelic Informatics LTD
+Angelsoft
+Angry Demon Studio
+Angry Mob Games
+Anima Project
+Animation F/X
+Animu Game
+Anino Games
+Anisoptera Games
+Anite
+Aniware AB
+Ankama Canada
+Ankama Games
+Anshar Studios
+Antab Studio
+Antagonist
+Antics Technologies
+Ant Software
+Anuken
+Aoca Game Lab
+Ape Law
+Ape Marina
+Apex Computer Productions
+APh Technological Consulting
+AppDynamics
+Appeal
+appfleet
+Applibot
+AppSense
+AppSir
+ApRicoT
+Aptana Inc.
+Apus Software
+AQ Interactive
+Aquiris Game Studio
+Arbitrary Metric
+Arcade Distillery
+Arcade Zone
+Arcane Kids
+Arca Noae
+Arcen Games
+Archetype Interactive
+Archimage
+Archive Entertainment
+Archon Systems Inc
+Arc System Works
+ArenaNet
+Argonaut Games
+ARGOsearch
+Arika
+Ariolasoft
+Arkane Studios
+Arkedo Studio
+Arkhouse Telegraph
+Armature Studio
+armogames
+Armor Project
+Arrowhead Game Studios
+Arsys Software
+Artdink
+Artech Digital Entertainment
+Artefacts Studio
+ArtePiazza
+ArtGame
+Artica Soluciones Tecnologicas
+Artifex Mundi
+Artifice Studio
+Artificial Studios
+Art in Heart
+Artix Entertainment
+Art & Magic
+Artoon
+Artworx
+Arush Entertainment
+Arvydas Žemaitis
+Arxel Tribe
+Arzest
+ASa Project
+Ascaron
+AsiaSoft
+Askiisoft
+Asobo Studio
+Aspect Co.
+Aspyr
+Asseco Solutions AG
+Astec 21
+Asteroid Base
+Astronomic Games
+Astrotale Games
+Asus
+Asymetrix
+Asymmetric Publications
+Atari Games
+Atari Interactive
+Atari SA
+Atego
+Atelier 801
+Atelier Double Co. Ltd.
+Atelier Kaguya
+Aterdux Entertainment
+AtGames
+Athena
+Atlassian
+Atlus
+Atod
+Atomic Antelope
+Atomic Games
+Atomic Motion
+Atomic Planet Entertainment
+AtomicTorch Studio
+Atom Team
+Atooi
+Attention to Detail
+Attic Entertainment Software
+Audio Analytic
+AudioGaming
+Audiogenic
+Audiokinetic
+Aurea Software
+AurumDust
+AutoKrew
+Automata UK
+Automation Centre
+Autonomy Corporation
+Autumn Moon Entertainment
+Auxbrain
+Avalanche Software
+Avalanche Studios Group
+Avast Software
+Avatar Creations
+Avatar Reality
+Aventurine SA
+Aveva
+Avidly Wild Games
+Awaceb
+Awaken Realms Digital
+Award Software
+Awe Interactive
+Awem
+AwesomeBlade
+Awesome Games Studio
+Axela
+Axes Art Amuse
+Axios Systems
+Axolot Games
+Ayeah Games
+B2B Games
+Babaroga
+Babelscape
+Babylon Software
+Backbone Emeryville
+Backbone Entertainment
+Backflip Studios
+Backwoods Entertainment
+Badim
+Badland Studio
+BáiYù
+Balsamiq
+Banana.ch
+Bandai Entertainment Company
+Bandai Namco Entertainment
+Bandai Namco Studios
+Banpresto
+Barbacube
+Barkers Crest Studio
+Barnhouse Effect
+Baroque Decay
+Barrel Roll Games
+Barry McCabe
+BaseSon
+Basilisk Games
+BatchMaster Software
+Batholith Entertainment
+BATOVI Games Studio
+BattleCry Studios
+Battlefront.com
+BattleGoat Studios
+Battlestate Games
+Bauhaus Entertainment
+Bay 12 Games
+B.B. Studio
+Beamdog
+BeamNG
+Beam Team Games
+Beat Games
+Beatshapers
+Beautiful Game Studios
+BeautiFun Games
+Bedford Software
+Beenox
+Beep Industries
+Behaviour Interactive
+Behold Studios
+Bemani
+Benford Labs
+Benjamin Rivers Inc.
+Bergsala Lightweight
+Berkeley Systems
+Berserk Games
+Berzerk Studio
+Best Way
+Betagames Group
+Bethesda Game Studios
+Bethesda Softworks
+Betop
+B-evil
+Beyond Games
+Beyond Interactive
+Biart
+BiblioCommons
+Big Ant Studios
+Big Ape Productions
+Big Bad Wolf
+Bigbig Studios
+Big Blue Bubble
+Big Corporation
+Big Fat Simulations Inc.
+Big Fish Games
+Big Green Pillow
+Big Huge Games
+Big John Games
+Bigpoint GmbH
+Big Red Software
+Big Robot
+Big Sandwich Games
+bildundtonfabrik
+Binary Innovations
+Binomial
+Binx Interactive
+BIOVIA
+BioWare
+Bird in Sky
+Birnam Wood Games
+Birthday
+Bishop
+Bit Corporation
+Bit Fry
+Bithell Games
+Bit Kid
+Bit Managers
+Bits & Beasts
+Bits Laboratory
+Bits Studios
+BITSTAIN
+Bitten Toast Games
+BIW Technologies
+Bizarre Creations
+BlackBerry
+Black Dragon Publishing
+Black Element Software
+Black Forest Games
+Black Hole Entertainment
+Black Isle Studios
+Black Lab Game Tech Pty Ltd
+Blacklight Interactive
+Black Market Games
+BlackMuffin Studio
+Blacknorth
+Black Ops Entertainment
+Black Pants Studio
+Black Rock Studio
+Black Shell Games
+BlackSpider Technologies Limited
+Black System
+Black Tower Studios
+Black Widow Games
+BlankMediaGames
+Blaze Gamers
+Blendo Games
+Blind Mind Studios
+Blind Squirrel Entertainment
+Blippar
+BlitWise Productions
+Blitz Arcade
+Blitz Games
+Blitz Games Studios
+Blizzard Entertainment
+Blizzard North
+Bloober Team
+Bloodlust Software
+Bloom Digital Media
+Blow and Try Again
+Blowfish Studios
+Blue Bottle Games
+Blue Box Game Studios
+Blue Brain Games
+Blue Chip Software
+bluecurse
+Blue Fang Games
+Blue Isle Studios
+Blue Lizard Games
+Blue Mammoth Games
+Blue Omega
+Blue Planet Software
+Bluepoint Games
+Blueshift Media
+Blueside
+Blue Sky Rangers
+BlueSky Software
+Blue Tea Games
+Blue Tongue Entertainment
+Blue Whale Systems
+Boffo Games
+Bohemia Interactive
+Boldon James
+Bolt Creative
+Bombservice
+Bonfire Studios
+Boomzap Entertainment
+Borealys Games
+Born Ready Games Ltd.
+BossAlien
+Bossa Studios
+Boss Fight Entertainment
+Boss Game Studios
+Boss Key Productions
+Bottle Rocket
+Bottlerocket Entertainment
+Bounding Box Software
+Boursorama
+Boxelware
+Box Office Software
+Bplus
+Brace Yourself Games
+Brain Bug
+Braingame Publishing
+BrainGrey
+Brain in a Jar
+Brainy Studio LLC
+Brave Bunny
+Brave Software
+Bread Team
+BreakAway Games
+BrickCream
+BridgeHead Software
+Bright Star Technology
+Brilliant Game Studios
+Brimo Studio
+Broadbean
+Broderbund
+Broken Arms Games
+Broken Crayon Games
+Broken Rules
+Broken Window Studios
+Bromcom
+Brooklyn Multimedia
+Brushfire Games
+BS Studios
+Buckethead Entertainment
+Buckrider Studio
+Budcat Creations
+BudgeCo
+Buffalo Vision
+Bugbear Entertainment
+Bugbyte
+Bug-Byte
+Buka Entertainment
+Bulldog Interactive
+Bullet-Proof Software
+Bullfrog Productions
+BullGuard
+BumbleBear Games
+Bumble Holding Limited
+BunchOD00dz
+Bungie
+BURA
+Burrik
+Burst Studios
+Burut CT
+Bushido Security
+Butterscotch Shenanigans
+Buzz Monkey Software
+Bypass Game Studios
+ByteDance
+Bytro Labs
+C3.ai
+Cable Software
+Cadcorp
+Cadhan Aonair
+California Dreams
+Callipygian Games
+Calltrunk
+Cambridge Imaging Systems
+Camel 101
+Camelot Software Planning
+Camex Games
+Camouflaj
+Campo Santo
+Canalside Studios
+Cantaloupe Kids
+Canuck Play
+Caparo Vehicle Technologies
+Capcom Production Studio 1
+Capcom Vancouver
+CAP Group
+CAP Scientific
+Capstone Software
+Capybara Games
+Caramel Box
+Carbine Studios
+Carbonated Games
+Carbon Games
+Cardboard Computer
+Cardboard Keep
+Cardboard Robot Games
+Career Soft
+Carlos Coronado
+Carry Lab
+Cartboard Games
+Casio
+Cassel Games
+CAST AI
+Castaway Entertainment
+Castle Thorn Software
+Catalyst
+CA Technologies
+CatLab Interactive
+Cauldron
+Caustic Creative
+CAVE
+Cavedog Entertainment
+Cavia
+CCP Games
+CD Projekt RED
+C&E
+Cedar Beast
+Céidot Game Studios
+CelerSMS
+Celestial Games
+Cellar Door Games
+Cellius
+Cellufun
+Centauri Production
+Centre pour la communication scientifique directe
+Cerillion
+Certain Affinity
+Certipost
+CGMatic
+CGram Software
+Chair Entertainment
+Changyou
+Channel 7
+Chaos Group
+Chaos Minds
+Character Soft
+Checkmarx
+Cheesy Software
+Chegg
+Cherry Soft
+Cheshire Engineering
+ChillyRoom
+Chimera Entertainment
+Chiyomaru Studio
+Choice of Games
+Choice Provisions
+Chubby Pixel
+Chucklefish
+Chumbosoft
+Chunsoft
+Ciberbit
+CI Games S.A.
+Cinematronics
+Cinemaware
+Cinemax
+Cing
+CipherCloud
+Cipher Prime
+Circle Studio
+CISOfy
+Citeremis Inc.
+Citrix Systems
+Clap Hanz
+ClassRanked
+Class-X Games
+Clever Endeavour Games
+Clever Trick
+Climax Entertainment
+Climax Group
+Climax Studios
+Clochette
+Clock Software
+ClockStone
+Clockwork Games Limited
+CloudBolt Software
+cloudcade
+Cloudflare
+Cloudgine
+Cloudhead Games
+Cloud Imperium Games
+Cloudscan
+Cloud X Ltd.
+Clover Studio
+Coatsink
+Cobrasoft
+Cobra Team
+Cockroach Inc.
+Cocktail Soft
+Coconut Island Games
+CODA
+CodaKid
+Codec Guide
+Code Club AB
+Coded Illusions
+Code Headquarters LLC
+Codemasters
+Codeminion
+CODE:Phantasm
+Codeplay
+Codeux Software
+Codo Technologies
+Coffee Stain Studios
+Cohort Studios
+Coilworks
+Coktel Vision
+Cold Beam Games
+Cold Iron Studios
+Coldwood Interactive
+Colibri Games
+Collavier Corporation
+Collecting Smiles
+Colossal Order
+Columbus
+coly.Inc
+Comarch
+Communication Group Plum
+Compile
+COMPILE◯
+Compile Heart
+Compsoft
+Comptel Corporation
+Compucolor Pictures
+Compulsion Games
+Conatus Creative Inc.
+Condat AG
+CONFIGIT A/S
+Confounding Factor
+Connecting Software
+Consco
+Conspiracy Entertainment
+Content and Code
+ContractExpress
+Contrail
+CookieByte Entertainment
+Cooking Mama Limited
+Copya System Ltd.
+Corecell Technology Co. Ltd.
+Core Design
+CoreFiling
+Coreplay
+Corepunch Game Studio
+Cornfox & Bros.
+Corona Labs Inc.
+Corvostudio
+Cosmi Corporation
+Cosmigo
+Cosmonaut Games
+Cotton Game
+Counterplay Games Inc.
+Covenant.dev
+Covenant Studios
+COVER Corporation
+Covert Operations Ltd
+Cowardly Creations
+C.P. Brain
+CPL Software Labs
+Crack dot Com
+Crackshell
+Crafts & Meister
+Cramer Systems
+Cranberry Production
+Craneballs
+Crash Lab
+CRASS Studios
+Crate Entertainment
+Crave Entertainment
+CrazyBunch
+Crazy Labs
+Crazy Moo Games
+Crealude
+Cream
+Crea-Tech
+Creative Assembly
+Creative Assembly Sofia
+Creative Concepts
+Creative Edge Software
+CreativeForge Games
+Creative Materials
+Creative Mobile
+Creative Reality
+Creative Sparks
+Creat Studios
+Creature Labs
+Creatures
+Credible
+Creepy Jar
+Creoteam
+CreSpirit
+Criterion Games
+Critical Bliss
+CriticalBlue
+Critical Gameplay
+Critical Studio
+CRL Group
+Crocodile Entertainment
+CronLab
+Cronosoft
+CROOZ
+Crosstalk Inc.
+Croteam
+Crowbar Collective
+Crows Crows Crows
+Crunching Koalas
+Cryo Interactive
+Cryptic Studios
+Crystal Computing
+Crystal Dynamics
+Crystal Empire Games
+Crystalline Green Ltd.
+Crystal Shard
+Crystice Softworks
+Crytek
+Crytek Frankfurt
+Crytek Hungary
+Crytek UK
+Crytek USA
+CSP Mobile GmbH
+Cubical Drift
+Cuidalos App
+@CULT
+Culture Brain
+Cumulus Networks
+cupholder
+Curve Digital
+CWH Entertainment
+Cyanide
+Cyan Worlds
+CyberAlliance
+CyberConnect2
+Cyberflix
+Cyberframe Studios
+CyberFront
+Cyber Light Game Studio
+Cyberlore Studios
+CyberStep
+Cyclone Studios
+Cylance Inc.
+Cyodata
+Cypronia
+Daedalic Entertainment
+Dalcom Soft
+Dancing Dots
+Dan Fornace 
+Dan & Gary Games
+Danger Close Games
+Daniel Mullins Games
+Daniel Wright
+Dantek Library Solutions
+Daou Infosys
+Dark-1
+Dark Energy Digital
+Darkflow Software
+Dark Gaia
+Dark Unicorn Productions
+Darkworks
+Darril Arts
+Data Design Interactive
+Data East
+Datanomic
+Data Realms
+Dataware Games
+DataXype
+Datcroft Games
+Date Nighto
+D'Avekki Studios
+Dave Microwaves Games
+Dave Nutting Associates
+David Mccue
+Davilex Games
+Daybreak Game Company
+Daydream Software
+dB-SOFT
+DC Studios
+DDC-I
+D-Dub Software
+Deadline Games
+Dead Mage
+Debonosu
+Decabry
+DECA Games
+Deck13 Hamburg
+Deck13 Interactive
+Deck Nine
+Deconstructeam
+Deepnight Games
+Deep Shadows
+Deep Silver
+Deep Silver Dambuster Studios
+Deep Silver Volition
+Defence Alliance Team
+Defiant Development
+Dejobaan Games
+Dekovir Entertainment
+Delta 4
+Delta Tao Software
+Demiurge Studios
+Demonware
+demresa
+Denki
+Dennaton Games
+Deothic
+Deputechnologies
+Descendent Studios
+DesignWare
+Desk Plant
+Destan Entertainment
+Destination Games
+Destination Software Inc.
+Destineer
+Destiny Software Productions
+Destructive Creations
+Detach Entertainment
+Detalion
+devCAT Studio
+Devespresso Games
+DEVGRU-P
+Devil Kitty Games
+Devsisters
+Dhruva Interactive
+Die Gute Fabrik
+Different Tales
+DigiFX Interactive
+Digirati
+Digital Anvil
+Digital Capital Corporation
+Digital Chocolate
+Digital Continue
+Digital Cybercherries
+Digital Eclipse
+Digital Eel
+Digital Equipment Corporation
+Digital Extremes
+Digital Happiness
+Digital Homicide Studios
+Digital Leisure
+Digital Media Workshop
+Digitalmindsoft
+Digital Praise
+Digital Reality
+Digital Software
+Digixart Entertainment
+Dilmer Games
+Dimmdrive Inc.
+Dimps
+Dingo Inc.
+Dinosaur Polo Club
+Direlight
+Dire Wolf Digital
+Dischan Media
+Disco Pixel
+Disney Interactive Studios
+Dispari
+Disruptor Beam
+Distant Games
+Distinctive Software
+Divide By Zero
+Divine Games
+Divinity Studios
+DMA Design
+DnS Development
+DNT Games
+Docent Software
+Dodge Roll
+Dogenzaka Lab
+doinksoft
+Dokkio
+Dolphin Computer Access
+Domark Software
+Dominion Voting Systems
+Dontnod Entertainment
+DotEmu
+DotGEARS
+dotPDN LLC
+DoubleBear Productions
+Double Eleven
+Double Fine Productions
+Double Helix Games
+DoubleMoose Games
+Doublesix
+Double Stallion
+Douze Dixièmes
+Dovetail Games
+Downpour Interactive
+D-Pad Studio
+Dragonfly
+Drakhar Studio
+Drama Drifters
+Draw Distance
+Draw Me A Pixel
+Dreamatrix Game Studios
+DreamFactory
+DreamForge Intertainment
+Dreamhaven
+DreamRift
+Dream Software
+Dreams Uncorporated
+DreamWorks Interactive
+Drinkbox Studios
+Driven Arts
+Drizzly Bear
+Drool
+DrPinkCake
+DR Studios
+Druva
+Dry Cactus
+DTP entertainment
+DuckDuckGo Inc.
+Dumativa Studios
+Dumb and Fat Games
+Durell Software
+Dusky Hallows Studio
+Dylan Fitterer
+Dynabyte
+Dynacom
+Dynamix
+Dynamo Games
+Dynatrace
+EA Black Box
+EA Bright Light
+EA DICE
+EA Gothenburg
+Eagre Games
+EA Mobile
+EA Montreal
+EA Pacific
+Earplay
+EarthWork Games
+EA Salt Lake
+EA Singapore
+East Cube
+East Point Software
+Eastshade Studios
+East Side Games
+EA Studios Japan
+Easybase
+EasyTech
+EA Tiburon
+Eat Sleep Play
+EA Vancouver
+Ebb Software
+Ebullience Games
+Eclipse Games
+Eclipse Software
+Edelweiss
+Eden Games
+Edenic Era LLC
+Eden Industries
+Edge Games
+Edge of Reality
+Eerie Bear Games
+eGames
+Eggcode Games
+Egosoft
+Ego Software
+Ehmiat
+Ehrgeiz
+Eidos Interactive
+Eidos Montreal
+Eighting
+Eight Points
+EightyEightGames
+eKreta Informatikai Zrt
+Ektomarch
+El Dia
+Electric Dreams
+Electric Games
+ElectricPuke
+Eleks
+Elemental Games
+Element Anti-Virus
+Eleon Game Studios
+Elephant games
+Elex
+Elias Viglione
+E-Line Media
+Elite Systems
+Elixir Studios
+elle-murakami
+Elliptic Games
+Elman España Studios
+ELOI Productions
+Eloquence Entertainment
+Elsinore Multimedia
+Ember Entertainment
+Eminoma
+Emotional Pictures
+Empire Interactive
+Empire Oxford
+Empty Clip Studios
+Enbisys
+Encore
+Endgame Studios
+Endless Loop Studios
+Endnight Games
+Endymion
+Engine Software
+Enhance
+Enigma Variations
+Enix
+EnjoyUp Games
+Enkord
+Enlight Software
+Enonic
+ensemble
+Ensemble Studios
+Entalysis
+Entertainment Software Publishing
+Entrada Interactive LLC
+Eovia
+EPay.bg
+Ephox
+Epicenter Studios
+Epic Games
+Epics Inc
+Epyx
+ERDAS Inc.
+Ertal Games
+eSail
+Escalation Studios
+Escu:de
+Esker SA
+Espaço Informática
+Esterel Technologies
+E-Tabs
+Etermax
+Étranges Libellules
+Eugen Systems
+Eurocom
+European Integration Studio
+Europress Database Software
+Eutechnyx
+EventX
+Everglow Interactive Inc.
+Everplay Interactive
+Everysight
+Everywear Games
+Evil Empire
+Evil Twin Artworks
+Evolution Studios
+Evryware
+Exact
+Examu
+Exceedra Software
+Exient Entertainment
+Exiled Game Team
+Exis Interactive
+Ex-One
+ExOne
+EXOR Studios
+exosyphen studios
+Expansive Worlds
+Experience
+Experiment 101
+Extra Mile Studios
+Extremely OK Games
+Extrokold Games
+Eyebrow Interactive
+F5 Networks
+FACE
+Facepalm Games
+Facepunch Studios
+Faceroll Games
+Factor 5
+Factor 5 GmbH
+Failbetter Games
+FairyTale
+Faithlife Corporation
+Fakt Software
+Falcon Development
+Family Soft
+Fan-na
+Fantahorn Studio
+Fan Visual
+FarSight Studios
+FASA Studio
+Fastly
+Fathammer
+Fatshark
+Favorite
+Fawn Dawn Studios
+feelplus
+Feline Fuelled Games
+Fellow Traveller
+Feng
+Fenix Fire Entertainment
+Fenrir Inc
+Feral Interactive
+Fervent
+Fidessa
+Fieldglass
+Fiendish Games
+Fiftytwo
+Fill-in-Cafe
+Final Form Games
+Final Scene Dev
+Finastra
+FinBlade
+Fineway Studios
+Fingersoft
+Fing Limited
+Finishing Move Inc.
+Finish Line Games
+FiniteMonkey
+Finji
+Fintech Band
+Firaxis Games
+Firebrand Games
+Firefly Studios
+Fireglow Games
+Fire Maple Games
+Firemonkeys Studios
+Fireproof Studios
+Firesprite
+First Star Software
+First Touch Games
+Fish in a Bottle
+Fishing Planet LLC
+Fishlabs
+FIVE-BN GAMES
+Fixme
+Flagship
+Flagship Studios
+Flair Software
+Flamebait Games
+Flashbulb Games
+FLAT12
+Flatbox Studios
+Flazm
+Flexiant Limited
+Flightless
+Flight-Plan
+Flight School Studio
+Flipline Studios
+Flippfly LLC
+FlipSwitch Games
+Flock Inc.
+Flow Fire Games
+Flox Studios Ltd.
+FlyEasy Software
+Flying Helmet Games
+Flying Tiger Development
+Flying Wild Hog
+Fly System
+FMV Future Limited
+Fntastic
+FOAM Entertainment
+Focus Multimedia
+Force Field
+Foreignvr
+Forever Entertainment
+Forgotten Empires
+Forgotten Hope Devs
+FortuneFish
+Fortyfive
+Foundation 9 Entertainment
+Foundation Systems
+Four Door Lemon
+Four Leaf Studios
+Four Quarters
+Fox Digital Entertainment
+Fox Interactive
+FreakZone Games
+Free Fall Associates
+Freehold Games
+Freejam
+Free Lives
+FreeStyleGames
+Freeverse
+French Bread
+FreshGames
+Frictional Games
+FriendTimes
+Frill
+Frima Studio
+Frogames
+Frog City Software
+Frogmind
+Frogwares
+FromSoftware
+From The Bench Digital Entertainment
+Front Fareast Industrial
+Frontier Developments
+Frosteam
+Frost Giant Studios
+Frosty Pop
+Frozenbyte
+Frozen Codebase
+FullBluff Studio
+Fullbright
+Full Fat
+Full Fat Productions Ltd.
+Fully Bugged
+Funatics Software
+Fun Bits Interactive
+Funcom
+Funcom Dublin Ltd.
+Fun Infused Games
+Fun Labs
+Funomena
+Funtactix
+Funtastic
+Fun Unit
+Fupac
+Fusion Global Business Solutions
+Fusionsphere Systems
+Fusty Game
+Future Games Of London
+Future Proof Games
+Futuretown
+FuturLab
+FXpansion
+FYQD-Studio
+FYRE Games
+fyto
+G2CREW
+G2 Games
+G5 Entertainment
+Gabriel Entertainment
+Gaelco
+GAIA Co.
+Gaijin Entertainment
+Gala
+GalaxyTrail
+Galette
+Galleria Retail Technology Solutions
+Galope
+Gamaga
+Gamania Digital Entertainment
+Gambrinous
+Game Arts
+GameAssistant Team
+Game Atelier
+Game Doctors
+Gameforge
+Game Freak
+GameHouse
+Game Labs
+Gamelearn
+Gameloft
+Gameloft Software Beijing
+Game Machine Studios
+Game Mechanic Studios
+Gamenauts
+Gamepires
+Game Refuge Inc.
+Game Republic
+Gamerizon
+Gamers for Good
+Games by Apollo
+Games Distillery
+Games Farm
+Games From Outer Space
+Games From The Deep
+Gameshastra
+GameSim
+GamesLabs
+Gamestar
+GAME STUDIO Inc.
+Gaming Minds Studios
+Gamious
+Gamma Play
+Gamtec
+Ganbarion
+Gang of Five
+Gaps
+GarageGames
+GasBuddy
+Gastronaut Studios
+Gatling Goat Studios
+Gausswerks
+GB Patch Games
+G-Craft
+G Data CyberDefense
+GD Studio
+Gearbox Software
+Geeta Games
+Geewa
+GemMedia
+genDESIGN
+General Arcade
+General Computer Corp.
+General Consumer Electronics
+General Entertainment
+General Interactive Co.
+General Software
+Genius Factor Games
+Genius Sonority
+Genki
+Genuine Games
+Geomerics
+Geronimo Entertainment
+Gesag
+gesinn.it GmbH & Co. KG
+Gethsemane Games
+Gevo Entertainment Pte Ltd
+GFX47
+Ghostfire Games
+Ghost Machine
+Ghost Ship Games
+Ghost Town Games
+Giant Army
+Giant Interactive
+Giant Margarita
+Giant Sparrow
+Giant Squid Studios
+Giants Software
+Giga
+Gigapan
+Gilsoft
+GitLab Inc.
+Givro
+Glass Heart Games
+Glenstack
+Glitchers
+Global Graphics
+Global Star Software
+GlobalVision
+Glock Software
+Glodia
+Glumberland
+Glu Mobile
+GlyphX
+GNISoft
+Gnosis Games
+Goblinz Studio
+Gogii Games
+GoGuardian
+G-OLD
+Goldhawk Interactive
+GolemLabs
+GOM & Company
+GoodbyeWorld Games
+Good-Feel
+Goodgame Studios
+Good Science Studio
+Google
+Goshow Inc.
+Gotham Games
+Grab
+Graceful Decay
+Graffiti Entertainment
+Grant & Bert Studios
+grapefrukt games
+Grasshopper Manufacture
+Grateful Days
+Gravity Corporation
+Gravity-i
+Graybeard Games
+Gray Matter Inc.
+Gray Matter Interactive
+Greenheart Games
+Green Land Studios
+Green Lava Studios
+Green Panda Games
+GreenupGames
+Gremlin Interactive
+G.rev
+Grey Alien Games
+Grey Dog Software
+GridGain Systems
+Grimlore Games
+Grimm Bros
+GRIN
+Grinding Gear Games
+Grip Games
+Griptonite Games
+GrizzlyGames
+Grounding
+Ground Shatter
+Grubby Hands Limited
+Grumpyface Studios
+Grundislav Games
+Grynsoft
+GSC Game World
+GSP Games
+GTE Interactive Media
+Guard Crush Games
+Guerilla Tea
+Guerrilla Cambridge
+Guerrilla Games
+GuidiGermano
+Guild of Blades
+Guild Software
+Gunfire Games
+Gungrounds
+Gunjin Games Limited
+Guru Games
+Gust Co. Ltd.
+Hacker International
+HaCon (Germany)
+Haemimont Games
+Halfbrick Studios Pty Ltd
+HAL Laboratory
+Hamham-soft
+Hammerfall Publishing
+Hammer Labs
+Hamster On Coke Games
+HanbitSoft
+h.a.n.d.
+HandMade Game
+Hand Made Software
+Hangar 13
+hange
+Hap inc.
+Happy Happening
+Happy Tuesday
+Hardlight
+Hardsuit Labs
+Harebrained Schemes
+Harlequin Games
+Harmonix Music Systems
+Haruneko Entertainment
+Harvester Games
+Hasbro Interactive
+Havok
+Hazelight Studios
+HB Studios
+Headbang Club
+Headcannon
+Headfirst Productions
+Headsoft
+Headstrong Games
+Heart Machine
+Heartomics
+Heatwave Interactive
+Heaven Brotherhood
+Heavy Iron Studios
+Hect
+Heliotrope Studios
+Hellbent Games
+Hello Games
+Hellscape Games
+Heluo Studio
+Hempuli Oy
+Hermitworks Entertainment
+HeroCraft
+Heuristic Park
+HexaDrive
+Hexage
+Hexenhaus
+Hexerei Games
+HexWar Games
+Hibernum Créations Inc.
+Hi-Bit Studios
+HI Corporation
+Hidden Path Entertainment
+HideMyAss!
+High Impact Games
+High Moon Studios
+High Tea Frog
+High Voltage Software
+Highwire Games
+Hijinx Studios
+Himalaya Studios
+Hindarium
+Hinterland Studio
+HipSoft
+Hipster Whale
+Hired Gun
+Hi-Rez Studios
+HiSoft Systems
+Hitbox Team
+Hi-Tec Software
+HitGrab
+Hit Maker
+Hit-Point
+Holy Sheep
+Honey
+Honey Parade Games
+HopesGaming
+HopFrog
+Horrible Guild Games
+horrorfantasy
+Hosting Controller
+Hot B
+HotGen
+Hothead Games
+Hothouse Creations
+Hot Lava Games
+Hourences
+House House
+Housemarque
+House of Tales
+House Pixel Games
+HTK Ltd
+Huawei
+Hudson Soft
+Hughes Technologies
+HumaNature Studios
+Human Entertainment
+Human Head Studios
+HumanSoft
+Humble Hearts
+Humming Bird Soft
+Humongous Entertainment
+HuneX
+Hunter Studio
+Hutsell Computer War Games
+Hyperbole Studios
+Hyperbolic Magnetism
+hyperboreanGames
+HyperDevbox Japan
+Hyper Fox Studios
+Hyperion Entertainment
+HyperSloth
+Hyperstrange
+Hypixel Studios
+Hypnos Entertainment
+Hypnotix
+i2 Limited
+IBM Research – Tokyo
+Icarus Studios
+ICE Entertainment
+Iceflake Studios
+Icehole
+Ice-Pick Lodge
+IceSitruuna
+ICE Software
+Icetesy SPRL
+ICG Software
+ICOM Simulations
+Iconic Gaming Studio
+Idea Fabrik
+Idea Factory
+Ideal Solution
+Ideaworks Game Studio
+Idigicon Limited
+idio
+Idol FX
+IDoneThis
+id Software
+IDS Scheer
+IfThen Software LLC
+Ignis Sanat
+Ignition Banbury
+IguanaBee
+I-Illusions
+IISTE
+I-Jet Media
+Ikarus Security Software
+Ilex Games
+IllFonic
+ILLION Corp
+illuCalab
+Illumix
+Illusion
+Illusion Labs
+Illwinter Game Design
+ILMxLAB
+Image craft
+Imageepoch
+Image & Form
+Image Space Incorporated
+Imagic
+Imagineer
+Imagineering
+ImaginEngine
+I'Max
+IMC Games
+IMEX Media
+IMGN.PRO
+Immersive Education
+Immersive VR Education Ltd.
+ImpactGames
+Imperia Online JSC
+Imperium42 Game Studio
+Impressions Games
+Incandescent Imaging
+Incentive Software
+Incinerator Studios
+Incodra
+Incognito Entertainment
+increpare games
+Incubator Games
+Independent Arts Software
+Index Corporation
+In-D Gaming
+Indie Built
+Indie Glue
+indieszero
+Indimo Labs LLC
+Indomitus Games
+Industrial Game Studios
+Industrial Toys
+Infamous Adventures
+Infamous Quests
+Infinitap Games
+Infinite Dreams Inc.
+Infinite Dreams Software
+Infinite Fall
+Infinite Interactive
+Infinite Monkeys Entertainment
+Infinity Ward
+Infocom
+Infogrames
+Infor Global Solutions
+Information Global Service
+Ingenta
+iNiS
+Inkle
+Inkline
+iNK Stories
+InLogic Software
+Innerloop Studios
+Innerprise Software
+Innersloth
+Innerspace VR
+InnoGames
+Innovative Minds
+I-Novae Studios
+inovex
+Inscape
+InsGames
+Insight Enterprises
+Insomniac Games
+Inspired Media Entertainment
+Instana
+InstantAction
+Intec Telecom Systems
+Intelligent cat
+Intelligent Design
+Intelligent Systems
+Intellisoft
+Intera
+Interactive Binary Illusions
+Interactive Pictures
+Interactive Strip
+InterActive Vision A/S
+Interceptor Micros
+Intergalactic Development
+International Games System
+Interplay Entertainment
+Interstel Corporation
+InterTrust Technologies
+Interwoven
+Intetics
+Inti Creates
+Intoxicate Studios
+Introversion Software
+Intuit
+Invader Studios
+Invictus Games
+Invitation Digital Ltd
+inXile entertainment
+IObit
+IOHK
+IO Interactive
+IOMO
+ionCube
+Ionized Games
+Ion Lands
+IPL Information Processing Limited
+IPVanish
+iQue
+Irem
+Iridium Studios
+Ironclad Games
+Iron Galaxy Studios
+Irongames Studio
+Iron Gate Studio
+Ironhide Game Studio
+Iron Lore Entertainment
+IronOak Games
+IronOak Studios
+Iron Realms Entertainment
+Iron Tower Studios
+IronYun
+Irrational Games
+Irresponsible Games
+Isaac Cohen
+Island Officials
+Isojumper
+Isomorphic Software
+Isotope 244
+ISOTX
+ITDA
+itemLabel
+Itharius
+Itransition
+Ivanoff Interactive
+Ivory Tower
+IVU Traffic Technologies
+Ivy Games
+IzanagiGames
+Jackbox Games
+Jadestone Group
+Jadu
+Jagex
+Jaleco
+JAM Productions
+Jankenteam
+Japan Art Media
+Japan Vistec
+Jasper Byrne
+Javaground
+Jellyvision
+JetBrains
+JetCat Games
+Jetdogs Studios
+JetForm
+J-Force
+JFrog Ltd
+J. K. Greye Software
+Joathrent Studios
+Joe Williams
+Johnny Two Shoes
+Joined Up Writing
+Jo-Mei Games
+Jorudan
+JoyBits Ltd.
+JoyMasher
+Joymax
+JPEGmini
+Jpeg of Pain Games
+JRad Games
+Juggernaut Games
+Jujubee S.A.
+Jump Over The Age
+JumpStart Games
+JumpStart Solutions
+Junction Point Studios
+Juncture Media
+Junebud
+Juphoon
+Jupiter
+Just Add Water
+Justin Moravetz
+JV Games
+K2 LLC
+Kaga Create
+KagariSoft
+Kaiko
+KainHauld
+Kainos
+Kairntech SAS
+Kairosoft
+Kaizen Game Works
+Kakao Games
+Kalido
+Kalisto Entertainment
+Kaltura
+Kalypso Media
+KamaGames
+KAMPO Interactive
+Kaneko
+Kaos Studios
+Karma
+Kaspersky
+KatGames
+Kazaa B.V.
+KAZe
+K Bros Games
+kChamp Games
+K-D Lab
+Kee Games
+Keen Software House
+Kemco
+KenamicK Entertainment
+Kerberos Productions
+Ketchapp
+Kew McParlane
+Keyboardio
+Kheops Studio
+KillHouse Games
+Killing Day Studios
+Killjoy Games
+Killmonday Games HB
+Killspace Entertainment
+Kimaia
+Kinesoft
+Kinetic Games
+King
+King Art Games
+KingsIsle Entertainment
+Kiss
+Kissflow
+Kite Games
+Kitfox Games
+Kixeye
+Klabater
+Klei Entertainment
+Koalabs
+Kodera Software
+Koei
+Kofax
+KOG Studios
+Kojima Productions
+Komar Games
+Konami
+Konami Computer Entertainment Japan
+Konami Computer Entertainment Osaka
+Konami Computer Entertainment Studios Yokohama
+Konstantin Koshutin
+KO_OP
+Koramgame
+Kot-in-Action Creative Artel
+Krafton
+KranX Productions
+Krealit
+Krea Medie
+Kremlingames
+Krillbite Studio
+Krisalis Software
+KROBON station
+Krome Studios
+Krome Studios Melbourne
+Kronosaur Productions
+Kronos Digital Entertainment
+Krystian Majewski
+Kuju Ltd.
+Kuma Reality Games
+Kumobius
+kunabi brother
+Kung Fu Factory
+Kung Fu Games
+Kupaa Studios
+Kure Software Koubou
+Kurisu no Patto
+Kuro Game
+Kush Games
+Kustomer
+KV331 Audio
+Kwalee
+KXEN Inc.
+Kyle Seeley
+Kylotonn
+La Belle Games
+Lab Zero Games
+Lag Studios
+Lamagama Entertainment
+La Moustache Studio
+Lancarse Co. Ltd.
+Landfall West
+Landka
+Landon Podbielski
+Lankhor
+Large Animal Games
+Larian Studios
+Lass
+Last Lotus
+Lattice
+Laughing Jackal
+Launchworks
+Laundry Bear Games
+Lavaboots Studios
+LavaMind
+Lazy 8 Studios
+Lazy Bear Games
+LDRLY Games
+Leaf
+Leaf Mobile
+Leafy Games
+League of Geeks
+Learnalot
+Le Cartel
+LeewayHertz
+Left Field Productions
+Legacy Interactive
+Legend Entertainment
+Legendo Entertainment AB
+Legend Studio
+Lemix game
+Lenar
+Lesta Studio
+Leti Arts
+Levall Games
+Level-5
+Level-5 Comcept
+Lexis Numérique
+LexUM
+LFC Multimedia
+Lichtund
+Lift London
+LightBox Interactive
+Light Brick Studio
+Lightbulb Crew
+Lighthouse Interactive
+Lightneer
+Lightning Fish
+Lightning Game Studios
+Lightning Rock
+Lightning Rod Games
+Lightwork Design Ltd.
+LiLiM
+Lilith
+Lilith Games
+Lillymo Games
+Lima Sky
+Limasse Five
+Limbic Entertainment
+Limbic Software
+Lince Works
+Linel
+Linux Game Publishing
+Lionhead Studios
+Lion Shield
+Liquid
+Liquid Entertainment
+Liquid Games
+Liquid Image
+Little Boy Games
+Little Cat Feet
+Little Green Men Games
+Liveplex
+Liverpool Data Research Associates
+Livingston Enterprises
+Lizardcube
+LK Avalon
+LMC Software
+Locata Corporation
+Locked Door Puzzle
+Locomotive Games
+Lo-Fi Games
+Logic Artists
+Logic Programming Associates
+Logitech
+LogMeIn
+Loiste Interactive
+Loki Entertainment
+Lonely Troops
+Longbow Games
+Long Hat House
+Longtail Studios
+Looking Glass Studios
+Loot Drop
+looterkings
+Loren Lemcke
+Loriciels
+Lostwood
+Lothian Ave
+Lotus Creative Entertainment
+Love-de-Lic
+Love Gun
+Loveshack Entertainment
+Lowe Bros. Studios LLC
+LSP Games
+LTI Gray Matter
+LucasArts
+Lucasfilm Games
+Lucid Games
+Lucky Chicken Games
+Lucky Frame
+Lucky Mountain Games
+Lucky You Studio
+Ludeon Studios
+Ludicrous Games
+Ludoïd
+LuGus Studios
+Lukas Navratil
+Łukasz Jakowski Games
+Lukewarm Media
+Lula Online
+LulzBot
+Luma Arcade
+Lumension Security
+Luminous Productions
+Lunar Ray Games
+Luxee
+Luxology
+Lykke Studios
+MacDaddy Entertainment
+MachineGames
+Machine Zone
+Macronix International
+Mad About Pandas
+Mad Fellows
+Madfinger Games
+Madge Networks
+Mad Genius Software
+Mad Head Limited
+MadMan Theory Games
+madosoft
+Madosoft
+Madruga Works
+Mad Vulture Games
+Magellan Interactive
+Maggese
+Magical Company
+MagicalTimeBean
+Magic Bytes
+Magic Design Studios
+Magic Pixel Games
+Magic Pockets
+Magic Wand Productions
+MAG Interactive
+Magisto
+Magmic Games
+Magnavox
+Magnetic Fields
+Magnetic Scrolls
+Magnin & Associates
+MAG Studios
+MailEnable Pty. Ltd
+Majesco Entertainment
+Majestic Studios
+Major Developments
+Majorem
+Malfador Machinations
+Mana Games
+Mando productions
+Mandragora
+Mane6
+Manic Game Studios
+Manley & Associates
+MANOC
+Manomio
+Mapbox
+Maranyo Games
+Marc Ellis
+Marcus Nichols
+MariaDB Corporation Ab
+Mark of the Unicorn
+Marmalade
+Marmalade Game Studio
+MARS Corporation
+Marvelous
+Marvelous Entertainment
+Marvin Glass and Associates
+MAS 90
+Masaya
+Maschinen-Mensch
+Massive Development
+Massive Entertainment
+Mass Media Inc.
+mastercode studio
+Mastfire Studios
+Masthead Studios
+Matrix Software
+Matt Dabrowski
+Mattel Electronics
+Matt Makes Games
+Mature Games
+Maverick Game Studio
+Max Design
+Max Entertainment
+Maximum Family Games
+Maxis
+Maxthon International
+MayoNinja Games
+McLeodGaming
+MDickie Limited
+Mean Hamster Software
+Mechabit Ltd
+Mechanical Butterfly Studios
+Medallia
+Media Molecule
+Mediamuse
+Media Rings
+Mediasurface
+Mediatonic
+Media.Vision
+Medl Mobile
+Medopad
+Med Systems Software
+Mega Cat Studios
+Mega Crit
+megazebra
+Mektek Studios
+Melesta Games
+Melody
+Meltdown Interactive Media
+Memex Technology Limited
+MercurySteam
+Mere Mortals
+Merge Games
+Meridian4
+Mesosphere Inc
+Messenger2050 Technologies
+Messhof
+MetaComCo
+Metalhead Software Inc.
+Metanet Software
+metaphacts
+Meteorise
+Metier Management Systems
+Metismo
+Metro3D
+Metro Corporation
+Metronomik
+Metropolis Software
+MGM COMPRO
+Michael Todd Games
+Mi-Clos Studio
+Microblast Games
+Microchip Technology
+Microdeal
+Micro Focus International
+Micro Forté
+Micro Fun
+Microïds
+MicroIllusions
+Micropedia
+MicroPlay Software
+MicroProse
+Microsoft
+Microsoft Algeria
+Microsoft Casual Games
+Microsoft India
+Microsoft India R & D
+Microsoft (Israel)
+Microsoft (Netherlands)
+Microsoft (United Kingdom)
+Micro-Star International
+MicroStrategy
+MicroStyle
+MiCROViSion Inc.
+MIDAS
+Midgar Studio
+Midjiwan AB
+Midway Austin
+Midway Studios – Los Angeles
+Midway Studios – Newcastle
+Mighty Bear Games
+Mighty Moth
+Mighty Rabbit Studios
+Mighty Rocket Studio
+miHoYo
+Mikro-Gen
+Milestone
+Milestone Inc.
+Military Simulations
+Milkstone Studios
+Milky Tea Limited
+Mimecast
+Minato Giken
+MindArk
+Mind Candy
+Mindcraft
+MindGenius
+Mindillusion
+Mindscape
+Mind's Eye Productions
+Mindstorm Studios
+Mindware Corp.
+Mindware Studios
+Miniboss
+MiniChimera Game Studio
+MiniVisions
+MinMax Games Ltd.
+Minori
+Minority Media
+Minor Key Games
+Mi'pu'mi Games
+Miracle Games
+Mirinae
+Misfits Attic
+Mission Studios
+Mistic Software
+Mistwalker
+Mitchell Corporation
+Mithis Entertainment
+△○□× (Miwashiba)
+MixedBag
+MJ Net
+Mnemonic Studios
+M Network
+MoaCube
+Mobigame S.A.R.L.
+Mobile21
+Mobile Systems International
+Mocana
+Mode 7
+Modoka
+Modulaatio Games
+Moebial Studios
+Mohawk Games
+Moi Rai Games
+Mojang Studios
+Molleindustria
+Moment Games
+Mommy's Best Games
+MonkeyMoon
+Monkeystone Games
+Monolith Productions
+Monolith Soft
+Monomi Park
+Monstars
+Monster Games
+Monte Cristo
+Mooneye Studios
+Moonfrog
+Moonlight Studios
+Moonpod
+Moonshot Games
+Moonsprout Games
+Moonstone
+Moon Studios
+More
+Moregames Entertainment
+Morepork Games
+MOSS
+Motelsoft
+Mother Gaia
+Mothership Entertainment LLC
+Motion Blur
+Motion Miracles
+Motion Twin
+Motive Studios
+Mountain King Studios
+Mountains
+Movaya
+MovingBlocks
+Mozilla Corporation
+Mr.Goodliving
+MrKnobb
+Mr. Nutz Studio
+ms.app
+MumboJumbo
+Mundfish
+Muse Games
+Muse Software
+Mutech
+MuuMuu
+Muzzy Lane
+Myroid-Type Comics
+MySQL AB
+Mystery Studio
+MysticGames
+Mythic Entertainment
+Mythos Games
+Mytopia
+N3V Games
+Nadeo
+Nagi-P Software
+Namazu Studios
+Namco
+Namco Networks
+Namco Tales Studio
+NanaOn-Sha
+NanaWind
+Naraven Games
+narayana games UG
+Narratio Studios
+Narvii
+NAT Games
+Nathan Sorenson Inc.
+National Insecurities
+National Software
+Natsume
+NaturalMotion
+Naughty Dog
+Navel
+Nazca Corporation
+NC Graphics
+NCompass Labs Inc
+NCsoft
+Nd Cube
+Ndemic Creations
+NDOORS Corporation
+nDreams
+Neat Corporation
+Nebula Device
+Necrosoft Games
+Nefarious Dimensions Inc.
+Neko Climax Studios
+Neko Entertainment
+Nekogames
+Nekomura Games
+Neko Work H
+Neko Works
+NeocoreGames
+Neon Giant
+Neopica
+Neople
+Neowiz Games
+Nerial
+Nerve Software
+Netbabyworld
+Netcore Games
+NetDevil
+Netdol
+NetDragon Websoft
+NetEase Games
+Net Educational Systems
+NetherRealm Studios
+Netmarble
+NETtime Solutions
+Neuroelectrics
+Neuron Games
+Neutron Games
+Neversoft
+Nevosoft
+New Game Order
+New Star Games
+New World Computing
+New World Interactive
+Nexile
+Nexon
+Nexor
+Nexters
+NextGIS
+nextjournal
+Next Level Games
+NExT Studios
+Nexus Game Studios
+N-Fusion Interactive
+NGD Studios
+ngmoco
+NHK Service Center
+Nibris
+Nicalis
+Nicholson NY
+Nickervision Studios
+Night Dive Studios
+Night Light Interactive
+Night Owl Gaming LLC
+Night School Studio
+Nihon Bussan
+Nihon Falcom
+Nikita Online
+Nik Nak Studios
+Nimble Neuron
+Nimbly Games
+Ninai Games
+Nine Dots Studio
+ninetail
+NinjaBee
+Ninja Theory
+Nintendo
+Nintendo Entertainment Analysis & Development
+Nintendo Entertainment Planning & Development
+Nintendo Network Service Development
+Nintendo Platform Technology Development
+Nintendo Research & Development 1
+Nintendo Research & Development 2
+Nintendo Software Design & Development
+Nintendo Software Planning & Development
+Nintendo Software Technology
+Nippon Computer Systems
+Nippon Ichi Software
+NIS America
+Nitrime
+Nitro+chiral
+Nitrome
+Nitroplus
+Nival Interactive
+Nixxes Software
+Noah System
+No Cliché
+NoCode
+No Goblin
+Noise
+Nolla Games
+Nomada Studio
+Nomad Games
+NomnomNami
+No More Room in Hell Team
+Nonadecimal
+Nonsense Arts
+Noodlecake
+Nordcurrent
+Nordeus
+Nord Unit
+NordVPN
+No Reply Games
+Norgate Investor Services
+Northgate Information Solutions
+North of Earth
+Northway Games
+Northwest Synergistic Software
+Northwood Studios
+Nosotek
+Nostalgia Productions
+NotGames
+Noumenon Games
+Novagen Software
+NovaLogic
+Novarama
+Nowcom
+Now Production
+n-Space
+nStigate Games
+NStorm
+NTDEC
+Ntergaid
+Ntreev Soft
+Ntronium Games
+Nuance Communications
+Nuclearvision Entertainment
+Nucleosys
+Nude Maker
+NuFX
+Numantian Games
+Numerical Algorithms Group
+Numinous Games
+Nyamyam
+Oakpont
+Oasis Games
+Oasis VR
+Oasys Mobile
+Objective Systems Integrators
+Ocean Software
+ocelot
+Ocelot Society
+Octane Games
+Octoshark Studios
+Oddworld Inhabitants
+ODenis Studio
+Odnako Games
+Offset Software
+Offworld Industries
+Oflander Dockhiemer
+Oh Bibi
+OhNoo Studio
+OHRIS
+Okta
+Old Skull Games
+Ole Lange
+Omega Force
+Omnifone
+Omnitrend Software
+OneLouder Apps
+One More Level
+OneOcean LLC
+One.Tel
+Onida Electronics
+Onion Soup Interactive
+Oovee® Game Studios
+OP3Nvoice
+Opaque Space
+Openbet
+Openmoko
+Opera Soft
+Opera Software
+OP Productions LLC
+Opsview
+Optik Software
+OPTiM
+Optimum Resource
+Optomec
+Orange Games
+Orbital Knight
+Orbital Media
+Oregan Networks
+ORG Corporation
+Origame Digital
+Origin Systems
+Orphic Software
+Osgoode Media
+Oslo Market Solutions
+Osmotic Studios
+Ossian Studios
+Oswald Labs
+Other Ocean Interactive
+OtherSide Entertainment
+Otomate
+OTOY
+OTRS Group
+Oura Health
+Outerminds Inc.
+Outerra
+Outfit7
+Out of the Blue
+Out of the Park Developments
+Out Of Tune Games
+Outrage Games
+Overkill Software
+Oversight Productions
+Over The Moon
+Over the Top Games
+Owlcat Games
+Owl Cave
+Owlchemy Labs
+Oxeye Game Studio
+Oxford Abstracts
+Oxford Computer Consultants
+Oxford Digital Enterprises Ltd
+Oxide Games
+Oxygen Studios
+Oxymoron Games
+Pacific Novelty
+Pack-In-Video
+Page 44 Studios
+Pajama Llama Games
+Palace Software
+Paladin Studios
+Paleozoic
+PAM Development
+Panache Digital Games
+Pandemic Studios
+Pandora
+Panic Barn
+Panic Button
+Panoramik Inc
+Pantera Entertainment
+Panther Games
+Panther Software
+Paon DP
+Papaya Studio
+Paperash studio
+Paper Cult
+PaperSeven
+Papyrus Design Group
+Parabole
+Parabon NanoLabs
+Paradigm Entertainment
+Paradox Development Studio
+Paradox France
+Paradox Interactive
+Paradox North
+Paradox Terminal
+Paragon Software
+Paragon Studios
+Parallax Arts Studio
+Parallax Software
+Param
+Parasol
+ParentPay
+ParityBit
+Parsec Productions
+Particle Systems
+PassTech Games
+Pastagames
+Pastel Accounting
+Paul Eckhardt
+Pavonis Interactive
+Pax Softnica
+Payload Studios
+Paymentwall
+PDAmill
+Peak Games
+Pearl Abyss
+PeasSoft
+Pegasus Japan Corp.
+Pegasus Software
+Peltast Software
+Pencil Test Studios
+Pentavision
+People Can Fly
+Perception
+Perfect Entertainment
+perfectial
+Perfect World
+Perfect World Entertainment
+Perihelion Software
+Periscope Games
+Perpetual Entertainment
+Persuasive Games
+Perverteer Games
+PES Productions
+Peterborough Software
+Petit Depotto
+Petite Games
+Petroglyph Games
+Phantagram
+Phase One Karma
+Phaser Lock Interactive
+Philly Games
+Philos Laboratories
+phime studio
+Phoenix Arts
+Phoenix Online Studios
+Phoenix Technologies
+Phony Game Studios
+Phosfiend Systems
+Phosphor Games Studio
+phpBB Limited
+Phr00t's Software
+Phunware
+Picsel
+Pigeons Interactive
+Pikewin
+Pikpok
+Pilgrim Adventures
+Pine Street Codeworks
+Ping Identity
+Pinkerton Road Studio
+PinkySwear
+Pinsleep Inc.
+Pinterac
+Pionesoft
+Pipeworks Software
+Pipliz
+Piranha Bytes
+Piranha Games
+Piriform
+P.I.S.D.
+Pi Studios
+Pitbull Studio
+Pivotal Games
+Pixel
+Pixelated Milk
+Pixel Beef Games
+Pixelbomb Games
+Pixel by Pixel Studios
+Pixel Error
+PixelFade Inc
+Pixel Federation
+Pixel Ferrets
+PixelHive
+PixelJAM Games
+Pixellore
+Pixelnest Studio
+PixelOpus
+Pixel Press
+Pixel Reef
+PixelTail Games
+Pixel Titans
+Pixel Toys
+Pixel Wizards
+Pixile Studios
+PIXIS Interactive
+Pixwerk
+Placeholder Gameworks
+Plain Vanilla Games
+Planet Moon Studios
+Plarium
+Plasticity Studios
+Platine Dispositif
+Platinum Egg Inc.
+Platinum Games
+Playaround
+Playdead
+Playdek
+Playdom
+Playfish
+Playful
+Playful Studios
+Playgendary
+Playground Games
+Playlogic Entertainment
+PlayMagic
+PlayNation
+Playnormous
+Playrise Digital Ltd.
+Playrix Entertainment
+Playsaurus
+Playstos Entertainment
+Playtonic Games
+Playware Studios
+PlayWay
+Plextek Limited
+Plotly
+PM Studios
+Pocketwatch Games
+Poken
+Pollux Gamelabs
+Polygon Magic
+Polygon Treehouse
+PolyKnight Games
+Polyphony Digital
+Polypogon Games
+Polytron Corporation
+Pompaduo
+PomPom Games
+Pony Town Team
+Popcannibal
+PopCap Games
+POPCOM
+Poppermost Productions
+Pop Rocket
+PopTop Software
+Portalarium
+Positech Games
+Powerful Robot Games
+Powerhead Games
+Powerhoof
+Precursor Games
+Preferred Networks
+Premium Agency Inc.
+Presage Software
+Press Play
+Press Start Inc.
+Pre-Stage Inc.
+Presto Studios
+Primal Pictures
+Priority Interrupt
+Prism Studios
+Procedural Arts
+Professional.Wiki – Jeroen De Dauw & Karsten Hoffmeyer GbR
+Profile Software
+Progeny Linux Systems
+Programming Research Limited
+Project Aethon
+Project Siren
+Project Sora
+Project Soul
+Project X Ltd.
+Promon AS
+Propaganda Games
+Prope
+Proper Games
+Prospect Games
+Pseudo Interactive
+Psikyo
+P Studio
+Psychic Software
+Psydra Games
+Psygnosis
+Psyonix
+Psytec Games 
+Pterodon
+PTV AG
+PUBG Studio
+Pulsion technology
+Punchline
+Puny Human
+Puppy Games
+Purple Pwny Studios
+Purple software
+Pushpay
+Putilin industries
+PVP Studio
+Pyro Studios
+Q1002639
+Q100406339
+Q100871863
+Q101069259
+Q10304571
+Q105041054
+Q105061134
+Q105123059
+Q105515114
+Q105558060
+Q105682595
+Q105698898
+Q105700850
+Q105747371
+Q105755878
+Q105792847
+Q106314665
+Q106418912
+Q106435357
+Q106463005
+Q106566912
+Q106588712
+Q106658788
+Q106977970
+Q107132458
+Q1113350
+Q11237321
+Q11336950
+Q11898759
+Q11959209
+Q11961071
+Q12007856
+Q12043904
+Q1662608
+Q17761838
+Q1809330
+Q18689080
+Q22099099
+Q22099242
+Q22099665
+Q2489678
+Q24931098
+Q25378421
+Q29526255
+Q29883069
+Q29919451
+Q29919536
+Q3100537
+Q31088661
+Q33793336
+Q4038647
+Q41310927
+Q41782945
+Q50809732
+Q50896147
+Q55466078
+Q56097622
+Q56286163
+Q56315957
+Q57438522
+Q60582556
+Q61787587
+Q62019185
+Q62667908
+Q63781104
+Q64073735
+Q6966161
+Q76835085
+Q76835358
+Q85885562
+Q86663657
+Q86743193
+Q89095397
+Q89373100
+Q91783901
+Q93337907
+Q9371446
+Q94131166
+Q94988332
+Q94988785
+Q96475268
+Q97883518
+Q97884048
+Q98557478
+Q98658032
+QBIK
+QCF Design
+Q Entertainment
+Q-Games
+Qiber Group
+Qooc Software
+Qplaze
+Quantic Dream
+QuantStack
+Quantum Mechanix
+Quantum Quality Productions
+QubicGames
+QUByte Interactive
+Quest Corporation
+Question
+Quicksilver Software
+Quick Soft
+Quin Rose
+Quintet
+Quite Interesting Ltd.
+Quod Financial
+Quretec
+Qute Corporation
+RAC7
+Race Cat
+Racing Bros
+Racjin
+Radial Games Corp
+Radiant Entertainment
+Radiation Blue
+Radical Entertainment
+Radical Fish Games
+Radish Works
+Rage Games
+Rainbird Software
+Rainbite
+Rainbow Arts
+Rainbow Games
+Rainbow Studios
+Rain Games
+Rake In Grass
+Ramjet Anvil
+Rampid Interactive
+Random Games
+Raptor Claw Games
+Rare Ltd.
+RASK
+Raspberry Software
+Ratalaika Games
+Ratbag Games
+Ratloop
+Ravenous Games
+Raven Software
+Ravn Studio
+Rayark Inc.
+Razorback Developments
+Razorworks
+Razzart Visual
+Ready at Dawn
+ReadySoft Incorporated
+Reakktor Studios
+realities.io
+Reality Pump Studios
+Really Simple Systems
+Realmforge Studios
+Realtime Associates
+Realtime Worlds
+Rebellion Developments
+Rebel Planet Creations
+Reborn Games
+Recloak
+Redbana Corporation
+Redbeet Interactive
+redBit games
+Redboss
+Red Candle Games
+Red Dot Games
+Red Entertainment
+Redfire Software
+Red Fox Game Studios
+REDFOX™ Game Studio Limited
+Red Games Co.
+Red Gate Software
+Red Hook Studios
+rediff.com
+Red Jade
+RedLynx
+Red Nettle Studio
+Red Redemption
+Red River Studio LLC
+RedRoc Interactive
+RedSpotGames
+Red Storm Entertainment
+RedSwoosh
+Red Thread Games
+Redtribe
+Red Wasp Design Ltd
+RedWolf Design
+Reentry Games
+Reflectiz
+Reflexive Entertainment
+Refraction Games
+Refsnes Data
+Regista
+Relentless Game Studios
+Relentless Software
+Relentless Studios
+RELEX Solutions
+Relic Entertainment
+Remedy Entertainment
+REMIMORY
+Renegade Kid
+Reperio Studios
+Reply.io
+Resilio
+Resonair
+Respawn Entertainment
+Result Group
+Resurrection Studios
+Reto-Moto
+Retrium
+Retro movements
+Retro Studios
+Revival Productions
+Revived Games
+Revolut
+Revolution Software
+RewindApp
+Rewolf Software
+RFX Interactive
+Rhino Studios Inc.
+Richlyn Systems
+RichMakeGame
+Right Square Bracket Left Square Bracket
+Ringler Studios
+Riot
+Riot Games
+Riovic
+Ripstone
+RISC OS Open
+Ritual Entertainment
+Rival Games
+RiverSoft
+Roberts Space Industries LLC
+ROBI Studios
+Roblox Corporation
+Robomodo
+Robotality
+Robot Entertainment
+Robot Gentleman
+Robot House Games
+Robot Invader
+Robot Loves Kitty
+Rocketcat Games
+Rocket Juice Games
+RocketOwl Inc.
+Rocket Science Games
+RocketWerkz
+ROCKFISH Games
+Rockstar Dundee
+Rockstar Games
+Rockstar Leeds
+Rockstar Lincoln
+Rockstar London
+Rockstar New England
+Rockstar North
+Rockstar San Diego
+Rockstar Toronto
+Rockstar Vancouver
+Rockstar Vienna
+Rocksteady Studios
+Rogue Factor
+Rogue Rocket Games
+Roklan Corporation
+Romans I XVI Gaming
+Romonet
+Rondomedia
+Ronimo Games
+Room 8 Studio
+Room-C Games
+Rooster Teeth Games
+Rosebleu
+Rotobee
+Route 59
+Rovio Entertainment
+Royal Troupe
+Royal Wins
+Ruby Party
+Ruce
+Runecraft
+RuneSoft
+RuneStorm
+Runic Games
+Runner Duck
+Running Pillow
+Running with Scissors
+Runscope
+Rupeck Games
+RUST LTD.
+Rusty Lake
+Ryu ga Gotoku Studio
+S2 Games
+Sabarasa Entertainment
+Saber Interactive
+Sad Panda Studios
+Sad Puppy
+SadSquare Studio
+Safari Software
+Saffire
+Saga Planets
+Sage 300
+Sage 50cloud
+Saigon Dragon Studios
+Sakari Games
+SakeVisual
+Salesforce.com
+Samanage
+Samurai Punk
+Sanctuary Woods
+Sand Grain Studios
+Sandlot
+Sandlot Games
+Sand Sailor Studio
+Sandstorm Productions
+Sanritsu Denki
+Santa Clara Games
+Santa Cruz Games
+Santa Cruz Operation
+Santa Ragione
+Sanuk Games
+Sanzaru Games
+Sapphire Dragon Productions
+SAP SE
+Sarepta studio
+Saru Brunei
+Sassybot
+Saturn-plus
+Sauropod Studio
+Savage Entertainment
+Sbug Games
+Scan
+Scap Trust
+Scarab Studio
+Scavenger Studio
+SCE Foster City Studio
+SCE San Diego Studio
+SCE Studio Liverpool
+Schell Games
+Schmidt Workshops
+Schulenburg Software
+Scientifically Proven
+SciSys
+SciTech Software
+Scopely
+Scornz
+Scorpion Software
+Scott Logic Ltd.
+Screaming Villains
+Screen 7
+Screenlife Games
+Screeps
+Screwfly Studios
+Scribe Software Corp
+ScriptSwitch Limited
+Scriptwelder Studio
+SCS Software
+Sculptured Software
+Scytl
+SDEnterNet
+Seals-Nutt LLC
+Second Dinner
+Secret Door
+Secret Exit
+Secret Identity Studios
+Secret Lab
+Section Studios
+Sectordub
+Seeed Studio
+Seemingly Pointless
+Sega
+Sega AM2
+Sega AM3
+Sega AM3 R&D Division
+SEGA Europe Ltd
+Sega Games
+Sega Interactive
+SEGA of America
+Sega Racing Studio
+Sega Rosso
+SegaSoft
+Sega Sports R&D
+Sega Studios San Francisco
+Sega Technical Institute
+Sega Wow
+Seibu Kaihatsu
+SELECT BUTTON Inc.
+Selen
+Semaphore
+Semidome Inc.
+Semmle
+Senile Team
+Sennari Games
+Sennep Games
+Senscape
+SenseTime
+Sensible Software
+Sensory Sweep Studios
+Serenity Forge
+Serif Europe
+Serious Games Interactive
+Seriously
+Serverware Group
+Serviço Federal de Processamento de Dados
+Set a Time
+Seven Lights
+SexGameDevil
+Shall Luck Plus
+Shanda
+Sharkmob
+Shatterline Productions
+Shaun Williams
+Shedworks
+Sherman3D
+Sherston America
+Sherston Software
+Shift
+Shin'en Multimedia
+Shining Pixel Studios
+Shining Rock Software
+Shinsei
+Shiny Entertainment
+Shiny Shoe
+Shiratama
+Shiro Games
+Shiver Entertainment
+Shiver Games
+Shoeisha
+Shopkick
+shoppermotion
+Shorebound Studios
+Shouei System
+Shroeder Studios
+Shugasu UG
+Sidebar Games
+Side Effects Software
+Sidhe
+SIE Bend Studio
+SIE Japan Studio
+SIE London Studio
+Sierra Entertainment
+SIE Santa Monica Studio
+SIE Worldwide Studios
+Sigil Games Online
+Signal Studios
+Signwave
+Sii Sp. z o.o.
+Silence
+Silent Software
+Silicon Beach Software
+Silicon Knights
+Silicon Sisters
+Silicon Studio
+Silk Games
+SILK P.O.D.
+Silktide
+Silky's
+SILKY'S PLUS
+Silly Galah Games
+Sillysoft Games
+Silverback Productions
+Silverball Studios
+SilverBirch Studios
+Silver Dollar Games
+Silverfish Studios
+Silver Lightning Software
+SilverSphereStudios
+Silver Style Entertainment
+Silver Wish Games
+SimBin
+Simcyp
+SimFabric
+Simian Squared
+Simis
+Simogo
+Simployer
+Simply Silly Software
+Simtex
+SimulaM
+Simulmondo
+Sinclair Research
+SingleTrac
+Singularity Software
+Sir-Tech
+Sirtech Canada Ltd.
+Sisense
+SiSoftware
+Sisyphus.Rocks
+SITER SKAIN
+Six by Nine Ltd
+Sixjoy Hong Kong Limited
+Size Five Games
+Skadoo Toons
+Ska Studios
+Skeleton Crew Studio
+SKH Apps
+Skillsoft
+Skilltree Studios
+skip Ltd.
+Skitso Productions
+Skobbejak Games
+Skookum Arts
+Skotos
+Skunk Software
+Skybound Games
+SkyBox Labs
+Skygoblin
+Skylum
+Skyworks Interactive
+Slack Technologies
+Sledgehammer Games
+Sleepless Knights
+Slick Entertainment
+Slightly Mad Studios
+Slipgate Ironworks
+Slitherine Software UK Limited
+Sloclap
+Sluggerfly
+SMAC Games
+Smallpdf
+Small Rockets
+Smart Bomb Interactive
+Smartly Dressed Games
+Smartmatic
+SmashGames
+SMG Studio
+Smile
+Smilebit
+Smilegate
+Smilesoft
+Smiling Buddha Games
+Smoking Gun Interactive
+Smule
+Snail
+snapADDY GmbH
+SnapDragon Games
+SnapLogic
+Snapshot Games
+Sniper Studios
+SNK-Games
+Snoozy Kazoo
+SnoutUp
+Snowbird Games
+Snowblind Studios
+Snowflake Computing
+Snowhound Games
+Snowman
+Soaphog Game Studio
+SOASTA
+Sobee
+SocialForAll.net
+Socialpoint
+Societa Daikanyama
+SOCKO! Entertainment
+Soedesco
+SOF Studios Ltd
+Softhouse Chara
+Softie
+SoftKey
+Softkinetic
+Softpress
+Soft Pro International
+Softtek
+Software 2000
+Software AG
+SoftwarePlant
+SoftWarWare
+Softwire
+Soft-World International
+Solid Clouds
+Solita
+SomaSim
+SonarSource
+Sonic Foundry
+Sonic Team
+Sonnori
+Soon Studios
+Sophia Genetics
+Sophia Search Limited
+Sophos
+Sora Ltd.
+Sorath
+Sourcenext
+Source Studio Ltd.
+Southend Interactive
+SouthPAW Games
+Soverance Studios
+Soviet Games
+SoWhat! Software Studios
+Spacepup Entertainment
+Spark Plug Games
+Spark Unlimited
+Sparkypants Studios
+Sparse Game Development
+sparsevector
+Spearhead Games
+Specialbit Studio
+Special FX Software Ltd.
+Spectrum HoloByte
+Spectrum Labs
+Speechmatics
+Speedflow Communications
+Spellborn International
+Spellbound Entertainment
+Spicy Horse
+Spiderling Studios
+Spiders
+Spiderweb Software
+Spieleentwicklungskombinat
+Spike
+Spike Chunsoft
+Spil Games
+SpinTop Games
+Splash Damage
+Split Polygon
+Splunk
+Spooky Doorway
+Spooky Squid Games Inc.
+Sports Interactive
+Springshare LLC
+sprite
+SPVD
+Squanch Games
+Square
+Square Enix
+Square One Studios
+SquarePlay Games
+SRF Games
+SS Studios
+StackPath
+Stadia Games and Entertainment
+Stage 2 Studios
+stage-nana
+Stainless Games
+Stainless Steel Studios
+Star Arcade
+Starbreeze Studios
+Stardock
+Starfish Inc.
+Star Gem Inc.
+Star Maid Games
+StarMessage software
+Starni Games
+Starship Group
+StarSystemStudios™
+Star Theory Games
+Star Vault
+State of Play
+StatPro Group
+StaudSoft
+Steel Crate Games
+Steel Wool Studios
+Stegersaurus Software Inc.
+Stegosoft Games
+Stellar Entertainment
+Stellar Stone
+Stephen Long
+StepUnique
+Sticky Studios
+Sting Entertainment
+Stirfire Studios
+Stoic
+Stone Lantern Games
+Stormcloud Games
+Stormfront Studios
+Storm Impact
+Storm in a Teacup
+Stormind Games
+StormRegion
+Straandlooper
+Strange Creatures Studio LLC
+Strange Flavour
+Strangely Interactive Ltd
+Strategic Simulations
+Strategic Studies Group
+Strawdog Studios
+Stray Fawn Studio
+Straylight Studios
+Straywire
+Streamline Studios
+Street Lamp Games
+Streetout Games
+Stress Level Zero
+Streum On Studio
+Striking Distance Studios
+Stroboskop
+Stuck In Attic
+Studio 1-2
+Studio 33
+Studio 9.7
+Studio Alex
+Studio Cypix
+Studio e.go!
+Studio Élan
+Studio FOW
+Studio Gamaii
+Studio Gigante
+Studio Klondike
+Studio Koba
+Studio MDHR Entertainment Inc.
+Studio Pango
+STUDIO RADI-8
+Studio Saizensen Ltd.
+Studio Seufz
+Studio Trophis Production Company
+Studio Turtledove
+Studio Wildcard
+Studio Wumpus
+Stumbling Cat
+Stunlock Studios
+Subatomic Studios
+Sublimation Inc.
+subLOGIC
+Subset Games
+Subsoap
+Success
+SuccessFactors
+Sucker Punch Productions
+Sugar Games
+Sukeban Games
+SukeraSparo
+Sulake Corporation
+Sumo Digital
+Suncrash
+Sunflowers Interactive Entertainment Software
+Sunhead Games
+Sun Microsystems
+Sunrise Interactive
+Sunscrapers
+Sunsoft
+Sunstorm Interactive
+Super Awesome Hyper Dimensional Mega Team
+Superb Corp.
+SuperBot Entertainment
+Supercell
+Superdove Games
+Super Evil Megacorp
+Supergiant Games
+Supergonk
+Superhot Team
+Super Icon
+Superior Software
+Supermassive Games
+Supermono studios
+Superscape
+Supersoft
+Supersonic Software
+Superstar Catalyst Project
+SuperTry Studios
+SuperVeg.es
+SuperVillain Studios
+SureAI
+Surebo Technologies
+Surreal Software
+Survios
+Suspicious Developments
+Suzak Inc.
+Suzaku
+Svarog Studios
+SVG Distribution
+Sweets Games
+Swingin' Ape Studios
+Swing Swing Submarine
+Switchblade Monkeys Entertainment
+Sword Ciboodle
+Swordfish Studios
+Swordtales
+Symbian Ltd.
+Symbium
+Synalysis
+Synapse Games
+Synchronica
+Synergy Inc.
+Synon
+Syn Sophia
+Synthetic Dimensions
+System 3
+Systematic
+System Era Softworks
+Systemic Reaction
+System Sacom
+Systems Applications and Products in Data Processing (Australia)
+Systems Applications and Products in Data Processing (United States)
+System Simulation
+SystemSoft Alpha
+Sytek
+Tableau Software
+Tachi
+TACTICAL Soft Inc.
+TAD Corporation
+Tag Games
+Tainted Games
+Takeru
+Take-Two Interactive
+Takumi Corporation
+Takuyo
+Taldren
+Tale of Tales
+TaleWorlds
+Talis Group
+TallBoys
+TalonSoft
+Tamatem
+Tammeka Games
+Tamsoft
+Tamtex
+Tandem Games
+Tango Gameworks
+Tantalus Media
+Tantrumedia
+Tao Group
+Tapps Games
+Tapulous
+Taranasus Studio
+Targem Games
+Tarsier Studios
+TASKING
+TATI Mixedia
+Taxan USA Corp.
+Tea & Cake Games
+Team17
+Team Antitribu
+Team Aquila
+Team Arcana
+Team Bloodlust
+Team Bondi
+Team Cherry
+Team Chex Quest HD
+Team Fabulous
+Team Fractal Alligator
+Team Gotham
+Team Hoi
+Team Ico
+Team Ladybug
+Team Meat
+Team Ninja
+Team Psykskallar
+Team Reptile
+Team Salvato
+Team Shanghai Alice
+Team Silent
+Team Soho
+Team Tachyon
+Team ViewSelect
+Techland
+Techno Companion
+Technology and Entertainment Software
+Technology Services Group
+Technopop
+Technōs Japan Corporation
+Technosoft
+Tectoy
+Teeworlds Team
+Telecomsoft
+Telenet Japan
+Telesys
+Teliris
+Telltale Games
+Templar Studios
+Tender Claws
+Tengen
+TENKY
+Ten Square Games
+T-Enterprise
+Teotl Studios
+Tequila Works
+Terahard
+Terapoly
+Terminal Reality
+Terraglyph Interactive Studios
+Terrible Posture Games
+Terrible Toybox
+Tevalu
+Texas Instruments
+Texel Raptor
+Teyon
+ThankCreate Studio
+The 3DO Company
+The Adventure Company
+The Assembly Line
+The Astronauts
+Theatrix Interactive
+The Balance Inc
+The Behemoth
+The Binary Mill
+The Bitmap Brothers
+THE BROTHERHOOD
+The Chinese Room
+The Coalition
+The Code Monkeys
+The Collective
+The Dreamers Guild
+The Farm 51
+The Fizz Factor
+The Foundry Visionmongers
+The Game Band
+The Game Creators
+The Game Designers Studio
+The Game Kitchen
+The Gentlebros
+The Hidden
+The Indie Stone
+The Initiative
+The Innocent Devils
+The Irregular Corporation
+Thekla
+The Knights of Unity
+The Learning Company
+The Logic Factory
+TheMeatly Games
+The Men Who Wear Many Hats
+The New Dimension
+Thenexte
+The Odd Gentlemen
+The Omni Group
+The Quantum Astrophysicists Guild
+The Quinnspiracy
+The RamJam Corporation
+The Sims Studio
+The Software Refinery
+The Software Toolworks
+The Voxel Agents
+the whale husband
+The Whole Experience
+The World Outside
+Thin Chen Enterprise
+Thing Trunk
+Think Garage
+Third Wire
+Thomas Happ Games LLC
+Those Awesome Guys
+THQ Digital Studios UK
+Three Fields Entertainment
+Three Guys Game Studio
+Three Phase Interactive Pty Ltd
+Three Rings Design
+Three-Sixty Pacific
+thriXXX
+ThriXXX
+ThroughLine Games
+Thunder Lotus Games
+Thunkspace
+Thursby Software
+Thylacine Studios
+TicBits Ltd.
+TickTock Games
+Tideway Systems
+Tiertex Design Studios
+Tiger Style
+Tigon Studios
+Tigress Marketing
+TikGames
+Tilde
+Tilted Mill Entertainment
+Tiltfactor Lab
+Tim Conkling
+TimeGate Studios
+Time Warner Interactive
+Time Warner Interactive Ltd.
+Time Warp Productions
+Timi Studios
+Tindalos Interactive
+tinyBuild Games
+Tiny Bull Studios
+TinyCo
+TinyMob Games
+Titan Studios
+Titus Software
+TML Studios
+Toaplan
+Tobuscus Game Studios
+ToeJam & Earl Productions
+Toge Productions
+Toka
+Tokkun Studio
+Tokuma Shoten
+Tokyo RPG Factory
+Tom Create
+Tomkorp Computer Solutions Inc.
+Tomoaki Sugeno
+Tomorrow Corporation
+Tonic Games
+TookiPalooki
+TopCV
+Torn Banner Studios
+TORPEDO
+Torus Games
+Tose Co.
+Totally Games
+Total Mayhem Games
+Total Monkery
+Towa Chiki
+Toxic Games
+Toybox Inc.
+Toylogic
+Toys for Bob
+Tracktwenty
+Transcendent Games
+Transhuman Design
+Transmission Games
+Trapdoor
+Trauma Studios
+Traveller's Tales
+Travellers Tales (UK) Ltd.
+Travian Games
+Travicom
+Treasure
+Trecision
+TreeFortress Games
+Trendy Entertainment
+Trese Brothers
+Treyarch
+tri-Ace
+Triangle Service
+Triangle Studios
+Triangular Pixels
+Triassic Games
+Triband
+Tribe Games
+TribePlay
+Tribe Studios
+Tribetoy
+TribeXR Inc.
+Tribute Games
+Tricentis
+Trickstar Games
+Trickster Arts
+tri-Crescendo
+Trilobyte
+Trilum Studios
+Trion Worlds
+Tripwire Interactive
+TriSoft
+Trisys Corp.
+TriTech Software Systems
+Triumph Studios
+Troika Games
+TruSim
+TrustElevate
+Trustworthy Systems
+Tsunami Games
+TT Fusion
+TT Games
+Tummy Games
+Tunnel Vision Games
+Tuque Games
+Turbo Button
+TURBOGUN
+Turbo Tape Games
+Turbulenz
+Turn 10 Studios
+TurtleBlaze
+Turtle Cream
+Turtle Juice
+Turtle Rock Studios
+Tuxedo Labs
+TV Genius
+Twice Circled
+Twilight
+Twilight Frontier
+Twinbeard Studios
+Twinkl Educational Publishing
+Twinword
+Twisted Pixel Games
+Twofaced Games
+Two Guys from Andromeda
+TwoPM Studios
+Two Point Studios
+Two Tribes B.V.
+TX Digital Illusions
+Tygron
+Tyler Hurd
+Type-Moon
+Typhoon Games
+Typhoon Studios
+Ubisoft
+Ubisoft Abu Dhabi
+Ubisoft Annecy
+Ubisoft Barcelona
+Ubisoft Belgrade
+Ubisoft Berlin
+Ubisoft Blue Byte
+Ubisoft Bordeaux
+Ubisoft Casablanca
+Ubisoft Chengdu
+Ubisoft Montpellier
+Ubisoft Montreal
+Ubisoft Paris
+Ubisoft Philippines
+Ubisoft Quebec
+Ubisoft Reflections
+Ubisoft San Francisco
+Ubisoft Shanghai
+Ubisoft Singapore
+Ubisoft Tiwak
+Ubisoft Toronto
+UDisc
+UEP Systems
+u-he
+Uken Games
+Ultimate Kronos Group
+Ultimate Play the Game
+Ultrasis
+Umbrella
+Unbounce
+Unconditional Studios LLC
+Underground Development
+Undertow Games
+UnexEvo
+Unfold Games
+UNIANA
+Unico Inc.
+Unicorn-A
+Unicorn Multimedia Corporation
+Unigine Corp
+Unipalm
+United Front Games
+United Game Artists
+Unity Technologies
+Univariety
+Universally Speaking Ltd.
+Universomo
+Unknown Worlds Entertainment
+Un pas fragile Team
+UnrealDevelopment
+Unreal Software
+Untame
+Unulax
+U-Play Online
+Uppercut Games Pty Ltd
+Urban Games
+Urbanscan
+US Games
+U.S. Gold
+Ushahidi
+ustwo Games
+V1 Interactive
+Valcon Games
+ValidSoft
+Valve Corporation
+Vanillaware
+Vanpool
+Vantan International
+VaragtP
+Variable State
+Vatra Games
+Vebigo
+Vectorbeam
+VectorCell
+Vector Unit
+VectorWorks
+Ve Interactive
+Vektor Grafix
+Velan Studios
+Veloow
+Venan Entertainment
+Vendel Games
+Venom Games
+Vénus Noire
+Veritone Inc.
+Vertical Robot
+Vertigo Games
+Vertigo Gaming
+Vespa
+Viacom New Media
+Vicarious Visions
+Vicious Cycle Software
+Victor Interactive Software
+Victory Games
+Videcom International
+Videocult
+VideoScribe
+Video System
+Vid Kidz
+Viewport Games
+Vigil Games
+Viking Tao
+Vimukti Technologies
+ViNovella
+Viqua Games
+Vir2L Studios
+Virgin Studios London
+Virtual Basement LLC
+Virtualex
+Virtual Kiss
+Virtual Playground
+Virtual Programming
+Virtuos
+Virtway
+Visceral Games
+VIS Entertainment
+Vision Designs
+Vision Park
+Visiontrick Media AB.
+Visual Concepts
+VIS - Visual Imagination Software
+Viswanath Atlu
+Vivaldi Technologies
+Vivarium Inc.
+Vivendi Games
+Viwawa
+Viz Design
+VizionEck
+Vizor Games
+Vlambeer
+Vogelfänger
+Vogelsap
+VOID Interactive
+Volatile Games
+Volcanic Games
+Voltage Entertainment
+Voodoo
+VooFoo Studios
+Vortex Game Studios
+Vortex Software
+VOSS Solutions
+Vostok Games
+VPN.ht Limited
+VR Active Ltd.
+VRChat Inc.
+VRUnicorns
+VTLS
+Vudu
+Vyond
+W3D Hub
+Wacom
+Wadjet Eye Games
+Waffle
+Wahoo Studios
+Wanako Studios
+Wander MMO
+Wangame Studios
+Warashi
+Warchief Gaming
+War Drum Studios
+Warfare Studios
+Wargaming.net
+Wargaming Seattle
+Wargaming Sydney
+Wargaming West Corporation
+Warhorse Studios
+Warner Bros. Games Montréal
+Warner Bros. Interactive Entertainment
+WARP
+Warpfish
+Warthog Games
+Warzone 2100 Project
+Watanabe Seisakujo
+Waterloo Hydrogeologic
+WaterMelon
+Wax Digital
+WayForward Technologies
+Waygetter Electronics
+WayScript
+Wayward Design
+Wayward Prophet
+WaywardXS Entertainment S.r.l.
+WB Games Boston
+Weappy Studio
+WebCRM
+Webfoot Technologies
+webMethods
+Web Technology Group
+Webwasher
+Webzen Games
+We Don't Have Time
+Wegenbartho
+WeirdBeard
+Wellore
+Weltenschmiede
+WeMade Entertainment
+we.R.play
+Westwood Pacific
+Westwood Studios
+W!Games
+Whalebox Studio
+Whalenought Studios
+Whereonearth
+Whirlpool
+WhisperGames
+White Door Games
+White Giant RPG Studios
+WhiteMoon Dreams
+Whoopee Camp
+Why so serious
+Wicked Witch Software
+Wideload Games
+Wild Arts
+Wildfire Studios
+Wild Games Studio
+WildTangent
+Williams Electronics Games
+Windmill
+Windy Hill
+Winking Entertainment
+Winkysoft
+Wintersoft
+Wintertree
+Winter Wolves
+WisdomTools Enterprises
+Wisdom Tree
+Wispfire
+Witch Beam
+Witching Hour Studios
+Wizarbox
+Wizard Video
+WizBang! Software Productions
+Wizet
+WMS Industries
+Wolcen Studio
+Wolfire Games
+Wolf & Wood Interactive
+Wolfy
+Wonderbelly Games
+Wooga
+World Forge
+World-LooM Games
+World Programming
+World's Advanced Saving Project
+Worldweaver Ltd
+Worthless Bums
+Wremia
+Wube Software
+Wx3 Labs
+Xanalys
+Xara
+Xaviant
+X-bow Software
+Xbox Game Studios
+xeen Inc.
+XGen Studios
+XII Games
+XLCubed
+XL Software Europe
+XMG Studio
+Xona Games
+XPEC Entertainment
+X-Ray Kid Studios
+Yacht Club Games
+Yager Development
+Y/CJ/Y
+Yeda Games
+Yendis Entertainment
+Yeti
+Yingpei Games
+Yoozoo Games
+Yoshitsubomi
+Yostar
+YOTSUBANE
+Youda Games
+Young Horses
+Yuke's
+Yullaby
+Yuuguu
+Yuzusoft
+Z2Live
+Zachtronics
+Zadbox Entertainment
+ZAP Corporation
+Zapier
+Zapr Media Labs
+Zaratustra Productions
+ZA/UM
+Zaxis Games
+Zayn Technology
+Zeboyd Games
+Zeebo Inc.
+Zeebo Interactive Studios
+Zeebox
+Zeiva Inc
+Zendesk
+ZeniMax Online Studios
+Zenobi
+Zen Studios
+Zenz VR
+Zeppelin Games
+ZeptoLab
+Zero
+Zerodiv Inc.
+Zero Point Software
+ZettaMedia
+Zeus Technology
+Zever Games
+Zi Corporation
+Zillion Whales
+Zing Games
+Zipper Interactive
+Zippo Games
+Zitrix Megalomedia
+Zoë Mode
+Zoetrope Interactive
+ZoG forum team
+Zoink Games
+Zombie Panic Team
+Zombie Studios
+Zono
+Zoo Corporation
+Zoom
+Zoom Out Games
+Zoonami
+ZootFly
+Z Sculpt
+Zylom
+Zynga
+Zynga Dallas
+Носков Сергей
